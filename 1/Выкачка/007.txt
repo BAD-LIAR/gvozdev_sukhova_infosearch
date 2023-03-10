@@ -1,0 +1,591 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Mockingbird — Eminem | Перевод и текст песни</title>
+<meta content="Перевод Mockingbird, Eminem, клип, слушайть онлайн, текст песни, lyrsense" name="keywords"/>
+<meta content="Перевод песни Mockingbird (Eminem) | Текст и перевод песни | Видео-клипы | Lyrsense" name="description"/>
+<meta content="Иванов Родион" name="author"/>
+<meta content="Иванов Родион" name="copyright"/>
+<meta content="width=device-width" name="viewport"/>
+
+<meta content="406ff1315d88e05e" name="yandex-verification">
+<meta content="IRpKkmfoN8t2gWivT2dg2N3QkBjTeJdDxCrRpSFVRuM" name="google-site-verification"/>
+
+
+
+
+<!--<link href="/css/styles_ny.css" rel="stylesheet" type="text/css" />-->
+<!--<link href="/css/styles_bd.css" rel="stylesheet" type="text/css" />-->
+
+</meta></head>
+<body>
+<div id="mp_custom_5974"></div>
+
+<div class="videoUndeCover"></div>
+<div class="videoCenterBlock" id="videoCenterBlock">
+<div class="videoButtons">
+<img alt="Развернуть " class="hidden" id="upVideo" src="/images/styles_5/window.png"/>
+<img alt="Свернуть вниз" id="downVideo" src="/images/styles_5/down.png"/>
+<img alt="Закрыть" id="closeVideo" src="/images/styles_5/close.png"/>
+</div>
+<div id="loadingVideo"></div>
+<div class="YaAds">
+<!-- R-138894-22 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-22"></div>
+
+</div>
+</div>
+<div class="bodyLayout">
+<div class="header noPrint ny_ls">
+<div class="topMenu hs">
+<table class="fullWidth">
+<tr>
+<td class="topMenuTd">
+<table>
+<tr>
+<td><a class="toOther" href="/" title="lyrsense.com">Главная</a></td>
+<td><a class="toOther" href="/fr" title="lyrsense.com">Французские</a></td>
+<td><a class="toOther" href="/it" title="lyrsense.com">Итальянские</a></td>
+<td><a class="toOther" href="/es" title="lyrsense.com">Испанские</a></td>
+<td><a class="toOther" href="/en" title="lyrsense.com">Английские</a></td>
+<td><a class="toOther" href="/de" title="lyrsense.com">Немецкие</a></td>
+<td><a class="toOtherls" href="https://forum.lyrsense.com/" title="форум">Форум</a></td>
+</tr>
+</table>
+</td>
+<td class="topRightMenu">
+<div>
+<div class="socTop">
+<a href="https://vk.com/lyrsense_com" target="_blank" title="Мы в Контакте"><img alt="Мы в Контакте" height="17" src="/images/styles_5/soc_vk.png" width="17"/></a>
+<a href="https://twitter.com/lyrsense" target="_blank" title="Мы в Твиттере"><img alt="Мы в Твиттере" height="17" src="/images/styles_5/soc_twitter.png" width="20"/></a>
+<a href="https://forum.lyrsense.com/" title="Форум"><img alt="Форум" height="18" src="/images/styles_5/soc_forum.png" width="17"/></a>
+</div>
+<span class="helloWorld hs" id="helloWorld">
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="float:right">
+<div class="lastSongs hidden dopBlock" id="lastSongs">
+<div class="userProfile">
+<div class="userProfileTop">
+<img id="userProfileImg" src="/images/userDefault.png"/>
+<span id="userProfileName"></span>
+<a href="/profile/newLogin?logout">выйти</a>
+</div>
+<div class="profileLogin">
+<div style="padding-bottom:15px;">
+					Авторизируйтесь через социальные сети или на <a href="https://forum.lyrsense.com/">форуме</a>
+</div>
+<div class="loginIcons">
+<a href="/profile/newLogin?loginWith=vk"><img src="/images/styles_5/ulogin_vkontakte.png"/></a>
+<a href="/profile/newLogin?loginWith=facebook"><img src="/images/styles_5/ulogin_facebook.png"/></a>
+<a href="/profile/newLogin?loginWith=google"><img src="/images/styles_5/ulogin_google.png"/></a>
+<a href="/profile/newLogin?loginWith=yandex"><img src="/images/styles_5/ulogin_yandex.png"/></a>
+<a href="/profile/newLogin?loginWith=odnoklassniki"><img src="/images/styles_5/ulogin_odnoklassniki.png"/></a>
+<a href="/profile/newLogin?loginWith=mailru"><img src="/images/styles_5/ulogin_mailru.png"/></a>
+</div>
+</div>
+<ul class="userProfileMenu">
+<li><a href="/profile/myWorks">Мои переводы</a></li>
+<li><a href="/profile/myFavorite">Любимые песни</a></li>
+<li><a href="/profile/mySubscribes">Подписки</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="menu">
+<ul>
+<li class="addSong"><a href="/addSong" rel="nofollow">Добавить перевод</a></li>
+<li><a href="/authors">Наши авторы</a></li>
+<li><a href="/hitParad">Хит-парад</a></li>
+<li><a href="https://game.lyrsense.com" rel="nofollow">Угадай мелодию!</a></li>
+<li><a href="/tags" rel="nofollow">Песни по тегам</a></li>
+<!--<li><a href="/faq" rel="nofollow">FAQ</a></li>-->
+</ul>
+</div>
+<div>
+<div style="float:left; width: 290px;padding-top:5px;">
+<!--<img src="/images/styles_5/0309.png" style='position:absolute; z-index:999; cursor:pointer; margin:50px 0 0 59px;' id="calendar0309"/>-->
+<a href="/" title="На главную"><img alt="lyrsense.com" class="gem" height="66" src="/images/styles_5/gem_ls.png" width="80"/></a>
+<a href="/" title="На главную"><img alt="lyrsense.com" class="logo" height="45" src="/images/styles_5/logo.png" width="167"/></a>
+</div>
+<div class="search">
+<form action="/search">
+<input autocomplete="off" class="search foldSearch" id="fastLsSearch" name="s" type="text" value=""/>
+<div style="float:right">
+<input alt="Найти" id="searchIcon" name="search" type="submit" value=""/>
+</div>
+<div style="position:absolute;">
+<img alt="" height="16" id="searchLoader" src="/images/styles_5/preloader.png" width="16">
+</img></div>
+</form>
+</div>
+</div>
+<div class="literasFirst" id="allLiteras">
+<ul class="shortLiters" id="shortLitersUl">
+<li><a href="/alphabet/lit_A">A</a></li>
+<li><a href="/alphabet/lit_B">B</a></li>
+<li><a href="/alphabet/lit_C">C</a></li>
+<li><a href="/alphabet/lit_D">D</a></li>
+<li><a href="/alphabet/lit_E">E</a></li>
+<li><a href="/alphabet/lit_F">F</a></li>
+<li><a href="/alphabet/lit_G">G</a></li>
+<li><a href="/alphabet/lit_H">H</a></li>
+<li><a href="/alphabet/lit_I">I</a></li>
+<li><a href="/alphabet/lit_J">J</a></li>
+<li><a href="/alphabet/lit_K">K</a></li>
+<li><a href="/alphabet/lit_L">L</a></li>
+<li><a href="/alphabet/lit_M">M</a></li>
+<li><a href="/alphabet/lit_N">N</a></li>
+<li><a href="/alphabet/lit_O">O</a></li>
+<li><a href="/alphabet/lit_P">P</a></li>
+<li><a href="/alphabet/lit_Q">Q</a></li>
+<li><a href="/alphabet/lit_R">R</a></li>
+<li><a href="/alphabet/lit_S">S</a></li>
+<li><a href="/alphabet/lit_T">T</a></li>
+<li><a href="/alphabet/lit_U">U</a></li>
+<li><a href="/alphabet/lit_V">V</a></li>
+<li><a href="/alphabet/lit_W">W</a></li>
+<li><a href="/alphabet/lit_X">X</a></li>
+<li><a href="/alphabet/lit_Y">Y</a></li>
+<li><a href="/alphabet/lit_Z">Z</a></li>
+<li><a href="/alphabet/lit_num">#</a></li>
+</ul>
+</div>
+</div>
+<table class="layout fullWidth">
+<tr>
+<td></td>
+<td width="310"></td>
+</tr>
+<tr>
+<td class="middleRow" id="textColumn">
+<div class="contentBlock" style="margin:0; padding-bottom:0;">
+<div class="printLogo hidden">
+<img class="logoPrint" src="/images/styles_5/logoBlck.png"/>
+</div>
+<h1 style="padding-bottom:0;">Перевод песни Mockingbird (Eminem)</h1>
+<div class="noPrint" style="position:relative;top:15px;"></div>
+</div>
+<div class="contentBlock noPrint" style="padding-bottom:10px; margin-bottom:5px;">
+<div class="breadcrumbs songBreads" id="breadcrumbs" style="">
+<div id="load">
+			Загрузка...
+			</div>
+<div itemscope="" itemtype="https://schema.org/BreadcrumbList" style="display:inline;">
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/eminem" itemprop="item"><span itemprop="name">Eminem</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="1" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/eminem#album_15222" itemprop="item"><span itemprop="name">Encore</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="2" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<span itemprop="name">Mockingbird</span>
+<meta content="3" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="noPrint hs" id="topBaner" style="margin:15px auto 0 auto; text-align:center; height:90px;">
+<!-- Yandex.RTB R-A-138894-68 -->
+<div id="yandex_rtb_R-A-138894-68"></div>
+
+</div>
+</div>
+<div id="layoutText">
+<div class="buttons tabPlane noPrint" id="buttons">
+</div>
+<div class="contentBlock" style="clear:both;">
+<input id="id_song" name="id_song" type="hidden" value="51724"/>
+<input id="hash_song" name="hash_song" type="hidden" value="12f19ca862d1b5cd8de5504770e36f39"/>
+<div id="layoutText">
+<div class="halfWidthDiv">
+<h2 class="hs" id="fr_title">Mockingbird</h2>
+</div>
+<div class="halfWidthDiv">
+<div class="sideButtons">
+<div style="position:absolute;width:20px;">
+<div class="likeSongLabel">
+<img class="setLiked button" height="17" id="set_like_51724" src="/images/styles_5/player/like_normal.png" width="20">
+</img></div>
+<a href="javascript:window.print()">
+<img alt="" class="noPrint" height="18" id="printPage" src="/images/styles_5/print.png" title="Распечатать перевод" width="20">
+</img></a>
+<img alt="Увеличить шрифт" class="fontBigger noPrint" height="18" src="/images/styles_5/f-bigger.png" width="20"/>
+<img alt="Уменьшить шрифт" class="fontSmaller noPrint" height="18" src="/images/styles_5/f-smaller.png" width="20"/>
+</div>
+</div>
+<h2 class="hs" id="ru_title">Пересмешник<sup>1</sup></h2>
+</div>
+<br style="clear:both;"/>
+<div class="halfWidthDiv fontChange" style="padding-right:10px;">
+
+
+
+
+
+<p class="hs" id="fr_text"><span class="highlightLine puzEng line1" line="1">Yeah...</span><br/><span class="highlightLine puzEng line2" line="2">I know sometimes,</span><br/><span class="highlightLine puzEng line3" line="3">things may not always make sense to you right now</span><br/><span class="highlightLine puzEng line4" line="4">But hey, what daddy always tell you?</span><br/><span class="highlightLine puzEng line5" line="5">Straighten up little soldier - stiffen up that upper lip</span><br/><span class="highlightLine puzEng line6" line="6">What you cryin about? You got me</span><br/><br/><span class="highlightLine puzEng line8" line="8">Hailie I know you miss your mom,</span><br/><span class="highlightLine puzEng line9" line="9">And I know you miss your dad</span><br/><span class="highlightLine puzEng line10" line="10">when I'm gone but I'm tryin to give you the life</span><br/><span class="highlightLine puzEng line11" line="11">That I never had</span><br/><span class="highlightLine puzEng line12" line="12">I can see you're sad, even when you smile,</span><br/><span class="highlightLine puzEng line13" line="13">Even when you laugh</span><br/><span class="highlightLine puzEng line14" line="14">I can see it in your eyes,</span><br/><span class="highlightLine puzEng line15" line="15">Deep inside you wanna cry</span><br/><span class="highlightLine puzEng line16" line="16">Cause you're scared, I ain't there,</span><br/><span class="highlightLine puzEng line17" line="17">Daddy's with you in your prayers</span><br/><span class="highlightLine puzEng line18" line="18">No more cryin, wipe them tears,</span><br/><span class="highlightLine puzEng line19" line="19">Daddy's here no more nightmares</span><br/><span class="highlightLine puzEng line20" line="20">We gon' pull together through it, we gon' do it</span><br/><span class="highlightLine puzEng line21" line="21">Laney, Uncle's crazy ain't he?</span><br/><span class="highlightLine puzEng line22" line="22">Yeah but he loves you girl</span><br/><span class="highlightLine puzEng line23" line="23">And you better know it</span><br/><span class="highlightLine puzEng line24" line="24">We're all we got it this world, when it spins, when it swirls</span><br/><span class="highlightLine puzEng line25" line="25">When it whirls, when it twirls, two little beautiful girls</span><br/><span class="highlightLine puzEng line26" line="26">Lookin puzzled, in a daze, I know it's confusin you</span><br/><span class="highlightLine puzEng line27" line="27">Daddy's always on the move, mama's always on the news</span><br/><span class="highlightLine puzEng line28" line="28">I try to keep up sheltered from it, but somehow it seems</span><br/><span class="highlightLine puzEng line29" line="29">the harder that I try to do that the more it backfires on me</span><br/><span class="highlightLine puzEng line30" line="30">All the things growin up as Daddy that he had to see</span><br/><span class="highlightLine puzEng line31" line="31">Daddy don't want you to see but you see just as much as he did</span><br/><span class="highlightLine puzEng line32" line="32">We did not plan it to be this way, your mother and me</span><br/><span class="highlightLine puzEng line33" line="33">But things have got so bad between us,</span><br/><span class="highlightLine puzEng line34" line="34">I don't see us ever bein</span><br/><span class="highlightLine puzEng line35" line="35">together ever again,</span><br/><span class="highlightLine puzEng line36" line="36">Like we used to be when we was teenagers</span><br/><span class="highlightLine puzEng line37" line="37">But then of course everything always happens for a reason</span><br/><span class="highlightLine puzEng line38" line="38">I guess it was never meant to be</span><br/><span class="highlightLine puzEng line39" line="39">But it's just somethin that we have no control over</span><br/><span class="highlightLine puzEng line40" line="40">And that's what destiny is</span><br/><span class="highlightLine puzEng line41" line="41">But no more worries, rest your head and go to sleep</span><br/><span class="highlightLine puzEng line42" line="42">Maybe one day we'll wake up and this'll all just be a dream</span><br/><br/><span class="highlightLine puzEng line44" line="44">Now hush little baby, don't you cry</span><br/><span class="highlightLine puzEng line45" line="45">Everything's gonna be alright</span><br/><span class="highlightLine puzEng line46" line="46">Stiffen that upper lip up little lady, I told ya</span><br/><span class="highlightLine puzEng line47" line="47">Daddy's here to hold, ya through the night</span><br/><span class="highlightLine puzEng line48" line="48">I know mommy's not here right now and we don't know why</span><br/><span class="highlightLine puzEng line49" line="49">We feel how we feel inside</span><br/><span class="highlightLine puzEng line50" line="50">It may seem a little crazy, pretty baby</span><br/><span class="highlightLine puzEng line51" line="51">But I promise, momma's gon' be alright</span><br/><br/><span class="highlightLine puzEng line53" line="53">Heh, it's funny</span><br/><span class="highlightLine puzEng line54" line="54">I remember back one year when daddy had no money</span><br/><span class="highlightLine puzEng line55" line="55">Mommy wrapped the Christmas presents up</span><br/><span class="highlightLine puzEng line56" line="56">And stuck 'em under the tree</span><br/><span class="highlightLine puzEng line57" line="57">And said some of 'em weren't from me,</span><br/><span class="highlightLine puzEng line58" line="58">Cause daddy couldn't buy 'em</span><br/><span class="highlightLine puzEng line59" line="59">I'll never forget that Christmas I sat up the whole night cryin</span><br/><span class="highlightLine puzEng line60" line="60">Cause daddy felt like a bum, see daddy had a job</span><br/><span class="highlightLine puzEng line61" line="61">But his job was to keep the food on the table for you and mom</span><br/><span class="highlightLine puzEng line62" line="62">And at the time, every house that we lived in</span><br/><span class="highlightLine puzEng line63" line="63">Either kept gettin broken into and robbed</span><br/><span class="highlightLine puzEng line64" line="64">Or shot up on the block</span><br/><span class="highlightLine puzEng line65" line="65">And your mom, was savin money for you in a jar</span><br/><span class="highlightLine puzEng line66" line="66">Tryin to start a piggy bank for you so you could go to college</span><br/><span class="highlightLine puzEng line67" line="67">Almost had a thousand dollars,</span><br/><span class="highlightLine puzEng line68" line="68">'til someone broke in and stole it</span><br/><span class="highlightLine puzEng line69" line="69">And I know it hurt so bad it broke your momma's heart</span><br/><span class="highlightLine puzEng line70" line="70">And it seemed like everything was just startin to fall apart</span><br/><span class="highlightLine puzEng line71" line="71">Mom and dad was arguin a lot so momma moved back</span><br/><span class="highlightLine puzEng line72" line="72">on the Chalmers in the flat, one bedroom apartment</span><br/><span class="highlightLine puzEng line73" line="73">And dad moved back to the other side of 8 Mile on Novara</span><br/><span class="highlightLine puzEng line74" line="74">And that's when daddy went to California with his CD</span><br/><span class="highlightLine puzEng line75" line="75">and met Dr. Dre, and flew you and momma out to see me</span><br/><span class="highlightLine puzEng line76" line="76">But daddy had to work, you and momma had to leave me</span><br/><span class="highlightLine puzEng line77" line="77">Then you started seein daddy on the TV</span><br/><span class="highlightLine puzEng line78" line="78">And momma didn't like it, and you</span><br/><span class="highlightLine puzEng line79" line="79">And Laney were too young to understand it</span><br/><span class="highlightLine puzEng line80" line="80">Papa was a rollin stone, momma developed a habit</span><br/><span class="highlightLine puzEng line81" line="81">And it all happened too fast for either one of us to grab it</span><br/><span class="highlightLine puzEng line82" line="82">I'm just sorry you were there and had to witness it first hand</span><br/><span class="highlightLine puzEng line83" line="83">Cause all I ever wanted to do was just make you proud</span><br/><span class="highlightLine puzEng line84" line="84">Now I'm sittin in this empty house, just reminiscin</span><br/><span class="highlightLine puzEng line85" line="85">Lookin at your baby pictures, it just trips me out</span><br/><span class="highlightLine puzEng line86" line="86">To see how much you both have grown, it's almost like you're sisters now</span><br/><span class="highlightLine puzEng line87" line="87">Wow, guess you pretty much are, and daddy's still here</span><br/><span class="highlightLine puzEng line88" line="88">Laney I'm talkin to you too, daddy's still here</span><br/><span class="highlightLine puzEng line89" line="89">I like the sound of that, yeah, it's got a ring to it don't it?</span><br/><span class="highlightLine puzEng line90" line="90">Shh, momma's only gone for the moment</span><br/><br/><span class="highlightLine puzEng line92" line="92">And if you ask me to daddy's gonna buy you a mockingbird</span><br/><span class="highlightLine puzEng line93" line="93">I'ma give you the world</span><br/><span class="highlightLine puzEng line94" line="94">I'ma buy a diamond ring for you, I'ma sing for you</span><br/><span class="highlightLine puzEng line95" line="95">I'll do anything for you to see you smile</span><br/><span class="highlightLine puzEng line96" line="96">And if that mockingbird don't sing and that ring don't shine</span><br/><span class="highlightLine puzEng line97" line="97">I'ma break that birdie's neck</span><br/><span class="highlightLine puzEng line98" line="98">I'd go back to the jeweler who sold it to ya</span><br/><span class="highlightLine puzEng line99" line="99">And make him eat every carat, don't fuck with dad</span><br/><span class="highlightLine puzEng line100" line="100">Ha ha!</span><br/></p>
+
+</div>
+<div class="halfWidthDiv fontChange">
+<p class="hs" id="ru_text"><span class="highlightLine line1" line="1">Да,</span><br/><span class="highlightLine line2" line="2">Я знаю, иногда</span><br/><span class="highlightLine line3" line="3">Некоторые вещи могут быть не совсем понятны тебе,</span><br/><span class="highlightLine line4" line="4">Но, эй, что папа тебе всегда говорит?</span><br/><span class="highlightLine line5" line="5">Выпрямись, маленький солдатик, сожми губки.</span><br/><span class="highlightLine line6" line="6">Почему ты плачешь? У тебя есть я.</span><br/><br/><span class="highlightLine line8" line="8">Хэйли, я знаю ты скучаешь по своей маме,</span><br/><span class="highlightLine line9" line="9">И я знаю, что ты скучаешь по папе.</span><br/><span class="highlightLine line10" line="10">Я ушел, но я стараюсь дать тебе жизнь,</span><br/><span class="highlightLine line11" line="11">Которой у меня никогда не было.</span><br/><span class="highlightLine line12" line="12">Я вижу, что ты грустишь, даже когда ты улыбаешься,</span><br/><span class="highlightLine line13" line="13">Даже когда смеешься.</span><br/><span class="highlightLine line14" line="14">Я вижу это в твоих глазах,</span><br/><span class="highlightLine line15" line="15">В глубине души тебе хочется плакать,</span><br/><span class="highlightLine line16" line="16">Потому что ты боишься, а меня нет рядом.</span><br/><span class="highlightLine line17" line="17">Папочка с тобой в твоих молитвах.</span><br/><span class="highlightLine line18" line="18">Не надо больше плакать, вытри слезки.</span><br/><span class="highlightLine line19" line="19">Папочка здесь, больше никаких кошмаров.</span><br/><span class="highlightLine line20" line="20">Вместе мы со всем справимся, мы сделаем это.</span><br/><span class="highlightLine line21" line="21">Лэйни, твой дядя сумасшедший, не так ли?</span><br/><span class="highlightLine line22" line="22">Да, но он любит тебя, девочка,</span><br/><span class="highlightLine line23" line="23">И тебе лучше это знать.</span><br/><span class="highlightLine line24" line="24">Мы – это все что у нас есть в этом мире, когда он вращается, когда он кружится,</span><br/><span class="highlightLine line25" line="25">Когда он рушится, когда он путается, две маленькие девочки,</span><br/><span class="highlightLine line26" line="26">Озадаченные, в оцепенении, я знаю это все запутывает вас.</span><br/><span class="highlightLine line27" line="27">Папочка постоянно в разъездах, а маму показывают в новостных программах.</span><br/><span class="highlightLine line28" line="28">Я пытаюсь вас защитить, но иногда кажется, что</span><br/><span class="highlightLine line29" line="29">Чем сильнее я хочу это сделать, тем хуже мне.</span><br/><span class="highlightLine line30" line="30">Папе пришлось многое увидеть в детстве.</span><br/><span class="highlightLine line31" line="31">Папочка не хочет, чтобы ты это видела, но ты видишь больше.</span><br/><span class="highlightLine line32" line="32">Мы не так все планировали, твоя мама и я,</span><br/><span class="highlightLine line33" line="33">Но все плохо сложилось между нами,</span><br/><span class="highlightLine line34" line="34">И я не вижу больше нас</span><br/><span class="highlightLine line35" line="35">вместе когда-нибудь,</span><br/><span class="highlightLine line36" line="36">Как тогда, когда мы были подростками.</span><br/><span class="highlightLine line37" line="37">Но все случается не просто так,</span><br/><span class="highlightLine line38" line="38">Я полагаю, что так не должно было быть.</span><br/><span class="highlightLine line39" line="39">Но есть вещи, которые не зависят от нас,</span><br/><span class="highlightLine line40" line="40">Это и есть судьба.</span><br/><span class="highlightLine line41" line="41">Но больше никаких переживаний, ложись и засыпай.</span><br/><span class="highlightLine line42" line="42">Может в один день мы проснемся и это все окажется сном.</span><br/><br/><span class="highlightLine line44" line="44">А сейчас тише, малышка, не плачь.</span><br/><span class="highlightLine line45" line="45">Все будет хорошо.</span><br/><span class="highlightLine line46" line="46">Сожми губки, маленькая леди, я же тебе говорил</span><br/><span class="highlightLine line47" line="47">Папочка здесь, чтобы обнять тебя, на всю ночь.</span><br/><span class="highlightLine line48" line="48">Я знаю, мамочки нет здесь сейчас, и мы не знаем почему.</span><br/><span class="highlightLine line49" line="49">Мы чувствуем то, что чувствуем внутри.</span><br/><span class="highlightLine line50" line="50">Это может звучать безумно, малышка,</span><br/><span class="highlightLine line51" line="51">Но я обещаю, с мамой все будет в порядке.</span><br/><br/><span class="highlightLine line53" line="53">Это забавно,</span><br/><span class="highlightLine line54" line="54">Я помню год назад, когда у папочки не было денег.</span><br/><span class="highlightLine line55" line="55">Мамочка упаковала рождественские подарки,</span><br/><span class="highlightLine line56" line="56">И положила их под елку.</span><br/><span class="highlightLine line57" line="57">И сказала, что они не от меня,</span><br/><span class="highlightLine line58" line="58">Потому что папочка не мог их купить.</span><br/><span class="highlightLine line59" line="59">Я никогда не забуду это Рождество, я плакал всю ночь.</span><br/><span class="highlightLine line60" line="60">Потому что папочка чувствовал себя бесполезным, видишь ли, у папочки была работа,</span><br/><span class="highlightLine line61" line="61">Но этой работы хватало лишь на то, чтобы доставать еду для тебя и мамы.</span><br/><span class="highlightLine line62" line="62">И в то время, в каждом доме, котором мы жили,</span><br/><span class="highlightLine line63" line="63">Либо взламывали, либо грабили,</span><br/><span class="highlightLine line64" line="64">Или стреляли.</span><br/><span class="highlightLine line65" line="65">И твоя мама копила деньги в железной банке,</span><br/><span class="highlightLine line66" line="66">Пыталась завести копилку, чтобы ты могла пойти в колледж.</span><br/><span class="highlightLine line67" line="67">Она почти накопила тысячу долларов,</span><br/><span class="highlightLine line68" line="68">Но нас ограбили.</span><br/><span class="highlightLine line69" line="69">И я знаю, это очень задело мамочку и разбило ей сердце.</span><br/><span class="highlightLine line70" line="70">И казалось, что все вокруг стало рушиться.</span><br/><span class="highlightLine line71" line="71">Мама и папа много ругались, так что мама переехала</span><br/><span class="highlightLine line72" line="72">На улицу Чалмерс, в свою однокомнатную квартиру,</span><br/><span class="highlightLine line73" line="73">А папа переехал на другую сторону от 8 Мили на улицу Новара.</span><br/><span class="highlightLine line74" line="74">И именно тогда папа уехал в Калифонию со своим диском,</span><br/><span class="highlightLine line75" line="75">И встретил Доктора Дре, я привез тебя и маму, чтобы вы увидели меня.</span><br/><span class="highlightLine line76" line="76">Но папочке надо было работать, вам с мамой пришлось уехать.</span><br/><span class="highlightLine line77" line="77">Тогда ты начала видеть папочку по телевизору.</span><br/><span class="highlightLine line78" line="78">И маме это не нравилось, и ты,</span><br/><span class="highlightLine line79" line="79">И Лэйни, были слишком маленькие, чтобы понять.</span><br/><span class="highlightLine line80" line="80">Папа стал как перекати-поле, а мама стала пить.</span><br/><span class="highlightLine line81" line="81">Все произошло очень быстро, чтобы мы могли остановиться.</span><br/><span class="highlightLine line82" line="82">Мне жаль, что тебе пришлось все ощутить на себе,</span><br/><span class="highlightLine line83" line="83">Ведь все что я хотел – это чтобы ты гордилась.</span><br/><span class="highlightLine line84" line="84">Сейчас я сижу в этом пустом доме и просто вспоминаю.</span><br/><span class="highlightLine line85" line="85">Смотрю твои детские фотографии, и я в восторге</span><br/><span class="highlightLine line86" line="86">Видеть как вы обе выросли, вы почти сестры</span><br/><span class="highlightLine line87" line="87">теперь.</span><br/><span class="highlightLine line88" line="88">Вау, представьте себе как вы выросли, папочка до сих пор рядом.</span><br/><span class="highlightLine line89" line="89">Лэйни, я обращаюсь к тебе тоже, папочка до сих пор здесь.</span><br/><span class="highlightLine line90" line="90">Да, мне нравится как это звучит, круто, правда?</span><br/><span class="highlightLine line91" line="91">Тихо, мама ушла не надолго.</span><br/><br/><span class="highlightLine line93" line="93">И если ты попросишь, папочка купит тебе пересмешника.</span><br/><span class="highlightLine line94" line="94">Я подарю тебе мир.</span><br/><span class="highlightLine line95" line="95">Я подарю тебе бриллиантовое кольцо, я спою тебе.</span><br/><span class="highlightLine line96" line="96">Я сделаю все что угодно, чтобы увидеть твою улыбку.</span><br/><span class="highlightLine line97" line="97">И если этот пересмешник не поет, кольцо не сияет,</span><br/><span class="highlightLine line98" line="98">Я сломаю этой птичке шею.</span><br/><span class="highlightLine line99" line="99">Я вернусь в ювелирный, где купил его</span><br/><span class="highlightLine line100" line="100">И заставлю съесть продавца каждый карат, чтобы больше не шутил с папой.</span><br/><span class="highlightLine line101" line="101">Ха-ха!</span><br/></p>
+<div class="buttons" id="buttonsBottom">
+</div>
+<div class="author" style="margin-top:10px">
+<div id="author_var1">
+<input id="sp_author_var1" name="sp_author" type="hidden" value="0"/>
+						Автор перевода — <noindex><a href="mailto:me.93@bk.ru" rel="nofollow" target="_blank">Miss Sunrise</a></noindex>
+</div>
+</div>
+</div>
+<br style="clear:both;"/>
+<div class="hrDiv" id="endOfText"></div>
+<div class="comment hs" id="comment">
+			1) <span id="footnote1">Mockingbird - другое название традиционной детской колыбельной «Hush, Little Baby», которая начинается со слов: Hush, little baby, don't say a word, Mama's gonna buy you a mockingbird...</span>
+</div>
+<div style="color:#6c6c6c; padding-bottom:10px;">
+</div>
+<div class="noPrint" style="padding:7px 0;height: 50px;">
+<!-- BEGIN: gRating --->
+<div class="gRating">
+<div style="text-align:center; width:30px">
+<span id="messageVoted"></span>
+</div>
+<div style="float:left; margin:-3px 10px 0 0;">
+<h3>Понравился перевод?</h3>
+</div>
+<div class="ratingStars" id="ratingStars" style="float:left; margin:5px 0px 0 0;">
+<img alt="*" class="ratingStar" height="24" id="star_1" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_2" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_3" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_4" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_5" src="/images/styles_5/Star-Full.png" width="24"/>
+</div>
+<div style="float:right; margin:-3px 0 0 0; padding: 0 0 10px 0; clear:both; color:silver;">
+<div itemscope="" itemtype="https://schema.org/AggregateRating">
+<div>
+<span itemprop="itemReviewed" itemscope="" itemtype="https://schema.org/MusicRecording">
+<span itemprop="name" style="color:white;position:absolute; margin:-4000px 0 0 0;">Перевод песни Mockingbird — Eminem</span>
+</span>
+<span>
+<span style="position:relative; top:4px; float:right;">
+											Рейтинг: <span id="avr" itemprop="ratingValue">5</span> / <span itemprop="bestRating">5</span>   
+											<span id="voted" itemprop="ratingCount">109</span> мнений
+										</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+<!-- END: gRating --->
+</div>
+<div class="noPrint" style="width:728px; margin: 10px auto; height:90px;">
+<!-- Yandex.RTB R-A-138894-74 -->
+<div id="yandex_rtb_R-A-138894-74"></div>
+
+</div>
+<div class="hrDiv noPrint"></div>
+</div>
+<div class="noPrint" style="margin-top:10px;">
+<div class="thanksForum">
+<a class="redLink" href="https://forum.lyrsense.com/showthread.php?p=1412#post1412" rel="nofollow">Поблагодарить<br/> за перевод на форуме</a>
+</div>
+<p class="sendErrorText">Ошибки, замечания, пожелания по переводу? — <a class="dashedRed" href="/feedback?foundError&amp;id=51724" id="foundErrorLink" rel="nofollow">сообщите нам</a></p>
+<div class="sendErrorDiv dopBlock modalBlock hidden">
+<form>
+<div id="notLogedUser">
+<label>Представьтесь, пожалуйста:</label>
+<input class="name text" id="name" name="name" style="width:211px !important" type="text" value="">
+<input id="nameUser" name="logedName" type="hidden" value=""/>
+</input></div>
+<div id="logedUser"></div>
+<textarea class="errorForm" id="message" name="message"></textarea><br/>
+<span class="error" id="errors"></span><br/>
+<input id="songId" name="songId" type="hidden" value="51724"/>
+<a class="dashedRed" href="#" id="sendError" rel="nofollow">Отправить</a>
+</form>
+<br style="clear:both"/>
+</div>
+</div>
+<div class="successSend"></div>
+</div>
+</div>
+</td></tr></table></div>
+<div class="contentBlock noPrint" style="clear:both;">
+<div class="similarSongs">
+<h2>Вам могут понравиться</h2>
+<div class="hs" style="width:240px;height:600px; float:right;">
+<!-- R-138894-21 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-21"></div>
+
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/eminem/without_me_em"><img alt="" height="150" src="/./images/albums/en_album_1632.jpg" width="150"/></a><br/>
+<a href="/eminem/without_me_em" style="font-size:16px;">Without me</a><br/>
+<a class="greyText" href="/eminem">Eminem</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/eminem/lose_yourself"><img alt="" height="150" src="/./images/albums/en_album_1432.jpg" width="150"/></a><br/>
+<a href="/eminem/lose_yourself" style="font-size:16px;">Lose yourself</a><br/>
+<a class="greyText" href="/eminem">Eminem</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/lana_del_rey/yes_to_heaven"><img alt="" height="150" src="/./images/albums/lyrsense_album_22628_791.jpg" width="150"/></a><br/>
+<a href="/lana_del_rey/yes_to_heaven" style="font-size:16px;">Yes to heaven</a><br/>
+<a class="greyText" href="/lana_del_rey">Lana Del Rey</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/neighbourhood_the/daddy_issues_a"><img alt="" height="150" src="/./images/albums/en_album_9733.jpg" width="150"/></a><br/>
+<a href="/neighbourhood_the/daddy_issues_a" style="font-size:16px;">Daddy issues</a><br/>
+<a class="greyText" href="/neighbourhood_the">Neighbourhood, the</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/lana_del_rey/summertime_sadness"><img alt="" height="150" src="/./images/albums/en_album_3810.jpg" width="150"/></a><br/>
+<a href="/lana_del_rey/summertime_sadness" style="font-size:16px;">Summertime sadness</a><br/>
+<a class="greyText" href="/lana_del_rey">Lana Del Rey</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/frank_sinatra/let_it_snow_fs"><img alt="" height="150" src="/./images/albums/en_album_296.jpg" width="150"/></a><br/>
+<a href="/frank_sinatra/let_it_snow_fs" style="font-size:16px;">Let it snow</a><br/>
+<a class="greyText" href="/frank_sinatra">Frank Sinatra</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/nirvana/smells_like_teen_spirit"><img alt="" height="150" src="/./images/albums/en_album_203.jpg" width="150"/></a><br/>
+<a href="/nirvana/smells_like_teen_spirit" style="font-size:16px;">Smells like teen spirit</a><br/>
+<a class="greyText" href="/nirvana">Nirvana</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/toni_braxton/unbreak_my_heart"><img alt="" height="150" src="/./images/albums/en_album_403.jpg" width="150"/></a><br/>
+<a href="/toni_braxton/unbreak_my_heart" style="font-size:16px;">Unbreak my heart</a><br/>
+<a class="greyText" href="/toni_braxton">Toni Braxton</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/billie_eilish/lovely_be"><img alt="" height="150" src="/./images/albums/en_album_12622.jpg" width="150"/></a><br/>
+<a href="/billie_eilish/lovely_be" style="font-size:16px;">Lovely</a><br/>
+<a class="greyText" href="/billie_eilish">Billie Eilish</a>
+</div>
+</div>
+<br style="clear:both;"/>
+</div>
+
+
+<td class="thirdColumn thinColumn">
+<div class="contentBlock album">
+<div class="album topAlbumBlock">
+<img alt="Encore" class="hs" src="/./images/albums/en_album_6393.jpg"/>
+<h3>Encore</h3>
+<h4>Eminem</h4>
+<br style="clear:both;"/>
+<div class="tracklistDiv">
+<a class="dashed trackListLink">Треклист</a> <span class="countSong trackListLink">(6)</span>
+<ul class="tracklist">
+<li><a href="/eminem/evil_deeds">Evil deeds</a></li>
+<li><a href="/eminem/like_toy_soldiers">Like toy soldiers</a></li>
+<li><a href="/eminem/ass_like_that">Ass like that</a></li>
+<li><span>Mockingbird</span></li>
+<li><a href="/eminem/crazy_in_lovee">Crazy in love</a></li>
+<li><a href="/eminem/love_you_moreem">Love you more</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="songBanner linkDiv" href="https://game.lyrsense.com/eminem">
+<img class="artistBck" src="/./images/artists/en_eminem.jpg" width="85"/>
+<img class="gamebnnr" height="150" src="/images/styles_5/game_new_banner.png" width="300"/>
+</div>
+<div id="sideYaBlock" style="margin:10px 0; text-align:center; height:300px; width:300px;">
+<!-- Yandex.RTB R-A-138894-70 -->
+<div id="yandex_rtb_R-A-138894-70"></div>
+
+</div>
+<div class="contentBlock" id="videoBlock" style="padding-bottom:10px;">
+<div class="hs">
+<h3 style="padding-bottom:0; margin-bottom:0;">Видеоклип</h3>
+</div>
+<img class="videoImg" src="https://i.ytimg.com/vi/S9bCLPwzSC0/0.jpg" ytcode="S9bCLPwzSC0"/>
+<img height="24" src="/images/styles_5/youtube-logo-55x24.png" style="float:right; margin-top:8px; " width="55"/>
+<p style="color:gray; font-size:11px; line-height:15px;"><strong>Видеоклипы</strong> к песне предоставляются сайтом youtube.com. Возможны некоторые несоответствия клипов песне.<br/><a href="/rulesVideo">Отказ от ответственности</a></p>
+</div>
+
+<div class="columnBlock noTopBorder sideAds" style="padding:0; margin-bottom:10px; min-height:250px; width:300px;">
+<!-- Yandex.RTB R-A-138894-72 -->
+<div id="yandex_rtb_R-A-138894-72"></div>
+
+</div>
+<div class="contentBlock album hs" style="padding:0;">
+<div id="vk_groups_ls"></div>
+
+</div>
+<div class="contentBlock">
+<h3>Популярные песни</h3>
+<div class="hp_index_row">
+<div class="hp_index_position">1.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35157_8.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/miley_cyrus/flowers_mc">Flowers</a><br/>
+<a href="/miley_cyrus" style="color:#7b7b7b">Miley Cyrus</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">2.</div>
+<div>
+<img alt="" height="50" src="/images/albums/es_album_14.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/manu_chao/me_gustas_tu">Me gustas tú</a><br/>
+<a href="/manu_chao" style="color:#7b7b7b">Manu Chao</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">3.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/fr_album_726.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/zaz/je_veux">Je veux</a><br/>
+<a href="/zaz" style="color:#7b7b7b">ZAZ</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">4.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_2488_469.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/deutschland_R">Deutschland</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">5.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_7.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/sonne">Sonne</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">6.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35216_1.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/shakira/bzrp_music_sessions_53">BZRP Music Sessions #53</a><br/>
+<a href="/shakira" style="color:#7b7b7b">Shakira</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">7.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_34293_1.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/kim_petras/treat_me_like_a_slut">Treat me like a slut</a><br/>
+<a href="/kim_petras" style="color:#7b7b7b">Kim Petras</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">8.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_21.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/du_hast">Du hast</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">9.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_1684.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rabauken/was_wollen_wir_trinken">Was wollen wir trinken</a><br/>
+<a href="/rabauken" style="color:#7b7b7b">Rabauken</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">10.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35310_9.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/sam_smith/unholy_s">Unholy</a><br/>
+<a href="/sam_smith" style="color:#7b7b7b">Sam Smith</a>
+</div>
+</div>
+</div>
+</div>
+</td>
+
+
+
+<div class="footer">
+<div class="bodyLayout">
+<div class="footerDiv">
+<table>
+<tr>
+<td>
+<h4>Lyrsense</h4>
+<ul>
+<li><a href="/advertising">Разместить рекламу</a></li>
+<li><a href="/partner">Партнерская программа</a></li>
+<li><a href="/donation">Поддержи сайт</a></li>
+</ul>
+</td>
+<td>
+<h4>Интересное</h4>
+<ul>
+<li><a href="https://game.lyrsense.com/" rel="nofollow">Игра «Угадай мелодию!»</a></li>
+<li><a href="/hitParad" rel="nofollow">Хит-парад</a></li>
+<li><a href="/radio" rel="nofollow">Персональное радио</a></li>
+</ul>
+</td>
+<td>
+<h4>Общение</h4>
+<ul>
+<li><a href="/feedback" rel="nofollow">Обратная связь</a></li>
+<li><a href="https://vk.com/lyrsense_com" rel="nofollow">Паблик в VK</a></li>
+<li><a href="https://forum.lyrsense.com/index.php" rel="nofollow">Форум</a></li>
+</ul>
+</td>
+<td>
+</td>
+</tr>
+</table>
+<div class="greyText">
+<span>Copyright © lyrsense.com, 2009–2023</span><br/>
+				Авторские права на перевод принадлежат авторам перевода. <br/>Пожалуйста, согласовывайте с авторами переводов возможность копирования материалов. 16+<br/>
+<a href="/terms" style="color:#7b7b7b;">Пользовательское соглашение</a> <a href="/privacy" style="color:#7b7b7b;">Политика конфиденциальности</a> 				
+				﻿
+
+
+<!-- Yandex.Metrika counter -->
+
+
+<!-- /Yandex.Metrika counter -->
+<!--/LiveInternet-->
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

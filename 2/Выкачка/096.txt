@@ -1,0 +1,619 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Häschenparty — Schnuffel | Перевод и текст песни</title>
+<meta content="Перевод Häschenparty, Schnuffel, клип, слушайть онлайн, текст песни, lyrsense" name="keywords"/>
+<meta content="Перевод песни Häschenparty (Schnuffel) | Текст и перевод песни | Видео-клипы | Lyrsense" name="description"/>
+<meta content="Иванов Родион" name="author"/>
+<meta content="Иванов Родион" name="copyright"/>
+<meta content="width=device-width" name="viewport"/>
+
+<meta content="406ff1315d88e05e" name="yandex-verification">
+<meta content="IRpKkmfoN8t2gWivT2dg2N3QkBjTeJdDxCrRpSFVRuM" name="google-site-verification"/>
+
+
+
+
+<!--<link href="/css/styles_ny.css" rel="stylesheet" type="text/css" />-->
+<!--<link href="/css/styles_bd.css" rel="stylesheet" type="text/css" />-->
+
+</meta></head>
+<body>
+<div id="mp_custom_5974"></div>
+
+<div class="videoUndeCover"></div>
+<div class="videoCenterBlock" id="videoCenterBlock">
+<div class="videoButtons">
+<img alt="Развернуть " class="hidden" id="upVideo" src="/images/styles_5/window.png"/>
+<img alt="Свернуть вниз" id="downVideo" src="/images/styles_5/down.png"/>
+<img alt="Закрыть" id="closeVideo" src="/images/styles_5/close.png"/>
+</div>
+<div id="loadingVideo"></div>
+<div id="uploadVideo">
+<div class="inputDiv">
+<h3>Добавить видео</h3>
+<p>Укажите ссылку на видео с YouTube в формате https://www.youtube.com/watch?v=хххххх</p>
+<input class="ytVideoLink" type="text"/><br/>
+<a href="https://www.youtube.com/results?search_query=Schnuffel+H%C3%A4schenparty" target="_blank">найти видео на YouTube</a>
+</div>
+<div class="checkVideo">
+<h3>Это то видео?</h3>
+<div id="tmpVideo"></div>
+<a class="dashed returnToInput" href="#">Нет, указать другое</a>      <a class="dashed confirmCode" href="#">Да, всё верно</a>
+</div>
+<div class="thanksDiv">
+<h3>Спасибо, видео загружено</h3>
+<p>Страница перезагрузится через несколько секунд с новым видео.</p>
+</div>
+</div>
+<div class="YaAds">
+<!-- R-138894-22 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-22"></div>
+
+</div>
+</div>
+<div class="bodyLayout">
+<div class="header noPrint ny_ls">
+<div class="topMenu hs">
+<table class="fullWidth">
+<tr>
+<td class="topMenuTd">
+<table>
+<tr>
+<td><a class="toOther" href="/" title="lyrsense.com">Главная</a></td>
+<td><a class="toOther" href="/fr" title="lyrsense.com">Французские</a></td>
+<td><a class="toOther" href="/it" title="lyrsense.com">Итальянские</a></td>
+<td><a class="toOther" href="/es" title="lyrsense.com">Испанские</a></td>
+<td><a class="toOther" href="/en" title="lyrsense.com">Английские</a></td>
+<td><a class="toOther" href="/de" title="lyrsense.com">Немецкие</a></td>
+<td><a class="toOtherls" href="https://forum.lyrsense.com/" title="форум">Форум</a></td>
+</tr>
+</table>
+</td>
+<td class="topRightMenu">
+<div>
+<div class="socTop">
+<a href="https://vk.com/lyrsense_com" target="_blank" title="Мы в Контакте"><img alt="Мы в Контакте" height="17" src="/images/styles_5/soc_vk.png" width="17"/></a>
+<a href="https://twitter.com/lyrsense" target="_blank" title="Мы в Твиттере"><img alt="Мы в Твиттере" height="17" src="/images/styles_5/soc_twitter.png" width="20"/></a>
+<a href="https://forum.lyrsense.com/" title="Форум"><img alt="Форум" height="18" src="/images/styles_5/soc_forum.png" width="17"/></a>
+</div>
+<span class="helloWorld hs" id="helloWorld">
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="float:right">
+<div class="lastSongs hidden dopBlock" id="lastSongs">
+<div class="userProfile">
+<div class="userProfileTop">
+<img id="userProfileImg" src="/images/userDefault.png"/>
+<span id="userProfileName"></span>
+<a href="/profile/newLogin?logout">выйти</a>
+</div>
+<div class="profileLogin">
+<div style="padding-bottom:15px;">
+					Авторизируйтесь через социальные сети или на <a href="https://forum.lyrsense.com/">форуме</a>
+</div>
+<div class="loginIcons">
+<a href="/profile/newLogin?loginWith=vk"><img src="/images/styles_5/ulogin_vkontakte.png"/></a>
+<a href="/profile/newLogin?loginWith=facebook"><img src="/images/styles_5/ulogin_facebook.png"/></a>
+<a href="/profile/newLogin?loginWith=google"><img src="/images/styles_5/ulogin_google.png"/></a>
+<a href="/profile/newLogin?loginWith=yandex"><img src="/images/styles_5/ulogin_yandex.png"/></a>
+<a href="/profile/newLogin?loginWith=odnoklassniki"><img src="/images/styles_5/ulogin_odnoklassniki.png"/></a>
+<a href="/profile/newLogin?loginWith=mailru"><img src="/images/styles_5/ulogin_mailru.png"/></a>
+</div>
+</div>
+<ul class="userProfileMenu">
+<li><a href="/profile/myWorks">Мои переводы</a></li>
+<li><a href="/profile/myFavorite">Любимые песни</a></li>
+<li><a href="/profile/mySubscribes">Подписки</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="menu">
+<ul>
+<li class="addSong"><a href="/addSong" rel="nofollow">Добавить перевод</a></li>
+<li><a href="/authors">Наши авторы</a></li>
+<li><a href="/hitParad">Хит-парад</a></li>
+<li><a href="https://game.lyrsense.com" rel="nofollow">Угадай мелодию!</a></li>
+<li><a href="/tags" rel="nofollow">Песни по тегам</a></li>
+<!--<li><a href="/faq" rel="nofollow">FAQ</a></li>-->
+</ul>
+</div>
+<div>
+<div style="float:left; width: 290px;padding-top:5px;">
+<!--<img src="/images/styles_5/0309.png" style='position:absolute; z-index:999; cursor:pointer; margin:50px 0 0 59px;' id="calendar0309"/>-->
+<a href="/" title="На главную"><img alt="lyrsense.com" class="gem" height="66" src="/images/styles_5/gem_ls.png" width="80"/></a>
+<a href="/" title="На главную"><img alt="lyrsense.com" class="logo" height="45" src="/images/styles_5/logo.png" width="167"/></a>
+</div>
+<div class="search">
+<form action="/search">
+<input autocomplete="off" class="search foldSearch" id="fastLsSearch" name="s" type="text" value=""/>
+<div style="float:right">
+<input alt="Найти" id="searchIcon" name="search" type="submit" value=""/>
+</div>
+<div style="position:absolute;">
+<img alt="" height="16" id="searchLoader" src="/images/styles_5/preloader.png" width="16">
+</img></div>
+</form>
+</div>
+</div>
+<div class="literasFirst" id="allLiteras">
+<ul class="shortLiters" id="shortLitersUl">
+<li><a href="/alphabet/lit_A">A</a></li>
+<li><a href="/alphabet/lit_B">B</a></li>
+<li><a href="/alphabet/lit_C">C</a></li>
+<li><a href="/alphabet/lit_D">D</a></li>
+<li><a href="/alphabet/lit_E">E</a></li>
+<li><a href="/alphabet/lit_F">F</a></li>
+<li><a href="/alphabet/lit_G">G</a></li>
+<li><a href="/alphabet/lit_H">H</a></li>
+<li><a href="/alphabet/lit_I">I</a></li>
+<li><a href="/alphabet/lit_J">J</a></li>
+<li><a href="/alphabet/lit_K">K</a></li>
+<li><a href="/alphabet/lit_L">L</a></li>
+<li><a href="/alphabet/lit_M">M</a></li>
+<li><a href="/alphabet/lit_N">N</a></li>
+<li><a href="/alphabet/lit_O">O</a></li>
+<li><a href="/alphabet/lit_P">P</a></li>
+<li><a href="/alphabet/lit_Q">Q</a></li>
+<li><a href="/alphabet/lit_R">R</a></li>
+<li><a href="/alphabet/lit_S">S</a></li>
+<li><a href="/alphabet/lit_T">T</a></li>
+<li><a href="/alphabet/lit_U">U</a></li>
+<li><a href="/alphabet/lit_V">V</a></li>
+<li><a href="/alphabet/lit_W">W</a></li>
+<li><a href="/alphabet/lit_X">X</a></li>
+<li><a href="/alphabet/lit_Y">Y</a></li>
+<li><a href="/alphabet/lit_Z">Z</a></li>
+<li><a href="/alphabet/lit_num">#</a></li>
+</ul>
+</div>
+</div>
+<table class="layout fullWidth">
+<tr>
+<td></td>
+<td width="310"></td>
+</tr>
+<tr>
+<td class="middleRow" id="textColumn">
+<div class="contentBlock" style="margin:0; padding-bottom:0;">
+<div class="printLogo hidden">
+<img class="logoPrint" src="/images/styles_5/logoBlck.png"/>
+</div>
+<h1 style="padding-bottom:0;">Перевод песни Häschenparty (Schnuffel)</h1>
+<div class="noPrint" style="position:relative;top:15px;"></div>
+</div>
+<div class="contentBlock noPrint" style="padding-bottom:10px; margin-bottom:5px;">
+<div class="breadcrumbs songBreads" id="breadcrumbs" style="">
+<div id="load">
+			Загрузка...
+			</div>
+<div itemscope="" itemtype="https://schema.org/BreadcrumbList" style="display:inline;">
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/schnuffel" itemprop="item"><span itemprop="name">Schnuffel</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="1" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/schnuffel#album_11326" itemprop="item"><span itemprop="name">Ich hab Dich lieb</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="2" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<span itemprop="name">Häschenparty</span>
+<meta content="3" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="noPrint hs" id="topBaner" style="margin:15px auto 0 auto; text-align:center; height:90px;">
+<!-- Yandex.RTB R-A-138894-68 -->
+<div id="yandex_rtb_R-A-138894-68"></div>
+
+</div>
+</div>
+<div id="layoutText">
+<div class="buttons tabPlane noPrint" id="buttons">
+</div>
+<div class="contentBlock" style="clear:both;">
+<input id="id_song" name="id_song" type="hidden" value="28405"/>
+<input id="hash_song" name="hash_song" type="hidden" value="f800514fb053bc35325d2bd6b9a33705"/>
+<div id="layoutText">
+<div class="tags" style="padding-bottom:0 !important;">
+<b>Теги:</b> <a href="/tags/new_year">Новый год и Рождество</a>, <a href="/tags/child">Детские песни</a>
+</div>
+<div class="halfWidthDiv">
+<h2 class="hs" id="fr_title">Häschenparty</h2>
+</div>
+<div class="halfWidthDiv">
+<div class="sideButtons">
+<div style="position:absolute;width:20px;">
+<div class="likeSongLabel">
+<img class="setLiked button" height="17" id="set_like_28405" src="/images/styles_5/player/like_normal.png" width="20">
+</img></div>
+<a href="javascript:window.print()">
+<img alt="" class="noPrint" height="18" id="printPage" src="/images/styles_5/print.png" title="Распечатать перевод" width="20">
+</img></a>
+<img alt="Увеличить шрифт" class="fontBigger noPrint" height="18" src="/images/styles_5/f-bigger.png" width="20"/>
+<img alt="Уменьшить шрифт" class="fontSmaller noPrint" height="18" src="/images/styles_5/f-smaller.png" width="20"/>
+</div>
+</div>
+<h2 class="hs" id="ru_title">Заячья вечеринка</h2>
+</div>
+<br style="clear:both;"/>
+<div class="halfWidthDiv fontChange" style="padding-right:10px;">
+<p class="hs" id="fr_text"><span class="highlightLine puzEng line1" line="1">Und auf den Wiesen hüpfen die Häschen wieder,</span><br/><span class="highlightLine puzEng line2" line="2">Die großen Ohren wippen fröhlich zum Beat!</span><br/><span class="highlightLine puzEng line3" line="3">Its Bunnyparty, alle hüpfen auf und nieder!</span><br/><span class="highlightLine puzEng line4" line="4">Und alle Häschen singen laut dieses Lied!</span><br/><br/><span class="highlightLine puzEng line6" line="6">yeyeyeeeyee...</span><br/><span class="highlightLine puzEng line7" line="7">heute ist Bunnyparty</span><br/><span class="highlightLine puzEng line8" line="8">yeyeyeeeyee...</span><br/><span class="highlightLine puzEng line9" line="9">Wir hüpfen zum Beat</span><br/><span class="highlightLine puzEng line10" line="10">yeyeyeeeyee...</span><br/><span class="highlightLine puzEng line11" line="11">Heute ist Bunnyparty</span><br/><span class="highlightLine puzEng line12" line="12">Yeyeyeeeyee...</span><br/><span class="highlightLine puzEng line13" line="13">Wir singen das Lied</span><br/><br/><span class="highlightLine puzEng line15" line="15">1, 2, 3, 4...Häschen Alarm!</span><br/><span class="highlightLine puzEng line16" line="16">1, 2, 3, 4...Häschen Alarm!</span><br/><br/><span class="highlightLine puzEng line18" line="18">Und an den Stranden hüpfen die Häschen wieder!</span><br/><span class="highlightLine puzEng line19" line="19">Und ihre Pfoten klopfen fröhlich den Beat!</span><br/><span class="highlightLine puzEng line20" line="20">Its Bunnyparty, alle hüpfen auf und nieder!</span><br/><span class="highlightLine puzEng line21" line="21">Und alle Häschen singen laut dieses Lied!</span><br/><br/><span class="highlightLine puzEng line23" line="23">Yeyeyeeyee...</span><br/><span class="highlightLine puzEng line24" line="24">Schnuffel Dj,</span><br/><span class="highlightLine puzEng line25" line="25">heute ist Bunnyparty</span><br/><span class="highlightLine puzEng line26" line="26">yeyeyeeeyee...</span><br/><span class="highlightLine puzEng line27" line="27">Wir hüpfen zum Beat</span><br/><span class="highlightLine puzEng line28" line="28">yeyeyeeeyee...</span><br/><span class="highlightLine puzEng line29" line="29">Heute ist Bunnyparty</span><br/><span class="highlightLine puzEng line30" line="30">Yeyeyeeeyee...</span><br/><span class="highlightLine puzEng line31" line="31">Wir singen das Lied</span><br/><br/><span class="highlightLine puzEng line33" line="33">1, 2, 3, 4...Häschen Alarm!</span><br/><span class="highlightLine puzEng line34" line="34">1, 2, 3, 4...Häschen Alarm!</span><br/><br/><span class="highlightLine puzEng line36" line="36">Und überall tanzt man nur zum Lied von Schnuffel</span><br/><span class="highlightLine puzEng line37" line="37">Und viele Häschen kommen von sehr weit her</span><br/><span class="highlightLine puzEng line38" line="38">Its Bunnyparty, Heute gibts was auf die Löffel!</span><br/><span class="highlightLine puzEng line39" line="39">Den heute bin ich euer Schnuffel Dj!</span><br/></p>
+</div>
+<div class="halfWidthDiv fontChange">
+<p class="hs" id="ru_text"><span class="highlightLine line1" line="1">На лугах снова прыгают зайчики,</span><br/><span class="highlightLine line2" line="2">Большие уши раскачиваются задорно и ритмично!</span><br/><span class="highlightLine line3" line="3">Это заячья вечеринка, все прыгают вверх-вниз!</span><br/><span class="highlightLine line4" line="4">Зайчики поют громко эту песенку!</span><br/><br/><span class="highlightLine line6" line="6">yeyeyeeeyee...</span><br/><span class="highlightLine line7" line="7">Сегодня заячья вечеринка</span><br/><span class="highlightLine line8" line="8">yeyeyeeeyee...</span><br/><span class="highlightLine line9" line="9">Мы прыгаем ритмично</span><br/><span class="highlightLine line10" line="10">yeyeyeeeyee...</span><br/><span class="highlightLine line11" line="11">Сегодня заячья вечеринка</span><br/><span class="highlightLine line12" line="12">Yeyeyeeeyee...</span><br/><span class="highlightLine line13" line="13">Мы поём песенку</span><br/><br/><span class="highlightLine line15" line="15">1, 2, 3, 4...Зайчики, тревога!</span><br/><span class="highlightLine line16" line="16">1, 2, 3, 4...Зайчики, тревога!</span><br/><br/><span class="highlightLine line18" line="18">На пляжах прыгают снова зайчики!</span><br/><span class="highlightLine line19" line="19">Лапки задорно отбивают ритм!</span><br/><span class="highlightLine line20" line="20">Это заячья вечеринка, все прыгают вверх-вниз!</span><br/><span class="highlightLine line21" line="21">Зайчики поют громко эту песенку!</span><br/><br/><span class="highlightLine line23" line="23">yeyeyeeeyee...</span><br/><span class="highlightLine line24" line="24">Шнуффель Dj</span><br/><span class="highlightLine line25" line="25">Сегодня заячья вечеринка</span><br/><span class="highlightLine line26" line="26">yeyeyeeeyee...</span><br/><span class="highlightLine line27" line="27">Мы прыгаем ритмично</span><br/><span class="highlightLine line28" line="28">yeyeyeeeyee...</span><br/><span class="highlightLine line29" line="29">Сегодня заячья вечеринка</span><br/><span class="highlightLine line30" line="30">Yeyeyeeeyee...</span><br/><span class="highlightLine line31" line="31">Мы поём песенку</span><br/><br/><span class="highlightLine line33" line="33">1, 2, 3, 4...Зайчики, тревога!</span><br/><span class="highlightLine line34" line="34">1, 2, 3, 4...Зайчики, тревога!</span><br/><br/><span class="highlightLine line36" line="36">Все танцуют под песенку Шнуффеля,</span><br/><span class="highlightLine line37" line="37">И много зайчиков скачут сюда издалека.</span><br/><span class="highlightLine line38" line="38">Заячья вечеринка, ушки на макушке!</span><br/><span class="highlightLine line39" line="39">Сегодня я здесь, ваш Шнуффель Dj!</span><br/></p>
+<div class="buttons" id="buttonsBottom">
+</div>
+<div class="author" style="margin-top:10px">
+<div id="author_var1">
+<input id="sp_author_var1" name="sp_author" type="hidden" value="36"/>
+						Автор перевода — <noindex><a href="mailto:zhalex84@mail.ru" rel="nofollow" target="_blank"><span style="font-weight:bold">Жижин Алексей</span><br/><a class="noPrint" href="/authors/zhalex" rel="nofollow">Страница автора</a></a></noindex>
+</div>
+</div>
+</div>
+<br style="clear:both;"/>
+<div class="hrDiv" id="endOfText"></div>
+<div class="comment hs" id="comment">
+</div>
+<div style="color:#6c6c6c; padding-bottom:10px;">
+</div>
+<div class="noPrint" style="padding:7px 0;height: 50px;">
+<!-- BEGIN: gRating --->
+<div class="gRating">
+<div style="text-align:center; width:30px">
+<span id="messageVoted"></span>
+</div>
+<div style="float:left; margin:-3px 10px 0 0;">
+<h3>Понравился перевод?</h3>
+</div>
+<div class="ratingStars" id="ratingStars" style="float:left; margin:5px 0px 0 0;">
+<img alt="*" class="ratingStar" height="24" id="star_1" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_2" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_3" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_4" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_5" src="/images/styles_5/Star-Full.png" width="24"/>
+</div>
+<div style="float:right; margin:-3px 0 0 0; padding: 0 0 10px 0; clear:both; color:silver;">
+<div itemscope="" itemtype="https://schema.org/AggregateRating">
+<div>
+<span itemprop="itemReviewed" itemscope="" itemtype="https://schema.org/MusicRecording">
+<span itemprop="name" style="color:white;position:absolute; margin:-4000px 0 0 0;">Перевод песни Häschenparty — Schnuffel</span>
+</span>
+<span>
+<span style="position:relative; top:4px; float:right;">
+											Рейтинг: <span id="avr" itemprop="ratingValue">4.9</span> / <span itemprop="bestRating">5</span>   
+											<span id="voted" itemprop="ratingCount">10</span> мнений
+										</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+<!-- END: gRating --->
+</div>
+<div class="noPrint" style="width:728px; margin: 10px auto; height:90px;">
+<!-- Yandex.RTB R-A-138894-74 -->
+<div id="yandex_rtb_R-A-138894-74"></div>
+
+</div>
+<div class="hrDiv noPrint"></div>
+</div>
+<div class="tags">
+<strong>Теги:</strong> <a href="/tags/new_year">Новый год и Рождество</a>, <a href="/tags/child">Детские песни</a>
+</div>
+<div class="noPrint" style="margin-top:10px;">
+<div class="thanksForum">
+<a class="redLink" href="https://forum.lyrsense.com/showthread.php?p=1412#post1412" rel="nofollow">Поблагодарить<br/> за перевод на форуме</a>
+</div>
+<p class="sendErrorText">Ошибки, замечания, пожелания по переводу? — <a class="dashedRed" href="/feedback?foundError&amp;id=28405" id="foundErrorLink" rel="nofollow">сообщите нам</a></p>
+<div class="sendErrorDiv dopBlock modalBlock hidden">
+<form>
+<div id="notLogedUser">
+<label>Представьтесь, пожалуйста:</label>
+<input class="name text" id="name" name="name" style="width:211px !important" type="text" value="">
+<input id="nameUser" name="logedName" type="hidden" value=""/>
+</input></div>
+<div id="logedUser"></div>
+<textarea class="errorForm" id="message" name="message"></textarea><br/>
+<span class="error" id="errors"></span><br/>
+<input id="songId" name="songId" type="hidden" value="28405"/>
+<a class="dashedRed" href="#" id="sendError" rel="nofollow">Отправить</a>
+</form>
+<br style="clear:both"/>
+</div>
+</div>
+<div class="successSend"></div>
+</div>
+</div>
+</td></tr></table></div>
+<div class="contentBlock noPrint" style="clear:both;">
+<div class="similarSongs">
+<h2>Вам могут понравиться</h2>
+<div class="hs" style="width:240px;height:600px; float:right;">
+<!-- R-138894-21 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-21"></div>
+
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/living_tombstone/my_ordinary_life"><img alt="" height="150" src="/./images/albums/en_album_18729.jpg" width="150"/></a><br/>
+<a href="/living_tombstone/my_ordinary_life" style="font-size:16px;">My ordinary life</a><br/>
+<a class="greyText" href="/living_tombstone">Living Tombstone, the</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/ghost_bc/mary_on_a_cross"><img alt="" height="150" src="/./images/albums/en_album_15674.jpg" width="150"/></a><br/>
+<a href="/ghost_bc/mary_on_a_cross" style="font-size:16px;">Mary on a cross</a><br/>
+<a class="greyText" href="/ghost_bc">Ghost</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/lana_del_rey/pretty_when_you_cry_ldr"><img alt="" height="150" src="/./images/albums/en_album_8016.jpg" width="150"/></a><br/>
+<a href="/lana_del_rey/pretty_when_you_cry_ldr" style="font-size:16px;">Pretty when you cry</a><br/>
+<a class="greyText" href="/lana_del_rey">Lana Del Rey</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/lady_gaga/bloody_mary"><img alt="" height="150" src="/./images/albums/en_album_2546.jpg" width="150"/></a><br/>
+<a href="/lady_gaga/bloody_mary" style="font-size:16px;">Bloody Mary</a><br/>
+<a class="greyText" href="/lady_gaga">Lady Gaga</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/lana_del_rey/diet_mountain_dew"><img alt="" height="150" src="/./images/albums/en_album_3810.jpg" width="150"/></a><br/>
+<a href="/lana_del_rey/diet_mountain_dew" style="font-size:16px;">Diet «Mountain dew»</a><br/>
+<a class="greyText" href="/lana_del_rey">Lana Del Rey</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/lana_del_rey/west_coast"><img alt="" height="150" src="/./images/albums/en_album_7981.jpg" width="150"/></a><br/>
+<a href="/lana_del_rey/west_coast" style="font-size:16px;">West Coast</a><br/>
+<a class="greyText" href="/lana_del_rey">Lana Del Rey</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/lana_del_rey/brooklyn_baby"><img alt="" height="150" src="/./images/albums/en_album_8016.jpg" width="150"/></a><br/>
+<a href="/lana_del_rey/brooklyn_baby" style="font-size:16px;">Brooklyn baby</a><br/>
+<a class="greyText" href="/lana_del_rey">Lana Del Rey</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/neighbourhood_the/reflections_n"><img alt="" height="150" src="/./images/albums/en_album_12920_937.jpg" width="150"/></a><br/>
+<a href="/neighbourhood_the/reflections_n" style="font-size:16px;">Reflections</a><br/>
+<a class="greyText" href="/neighbourhood_the">Neighbourhood, the</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/lana_del_rey/dont_let_me_be_misunderstood_ldr"><img alt="" height="150" src="/./images/albums/en_album_9375_907.jpeg" width="150"/></a><br/>
+<a href="/lana_del_rey/dont_let_me_be_misunderstood_ldr" style="font-size:16px;">Don't let me be misunderstood</a><br/>
+<a class="greyText" href="/lana_del_rey">Lana Del Rey</a>
+</div>
+</div>
+<br style="clear:both;"/>
+</div>
+
+
+<td class="thirdColumn thinColumn">
+<div class="contentBlock album">
+<div class="album topAlbumBlock">
+<img alt="Ich hab Dich lieb" class="hs" src="/./images/albums/de_album_340.jpg"/>
+<h3>Ich hab Dich lieb</h3>
+<h4>Schnuffel</h4>
+<br style="clear:both;"/>
+<div class="tracklistDiv">
+<a class="dashed trackListLink">Треклист</a> <span class="countSong trackListLink">(15)</span>
+<ul class="tracklist">
+<li><a href="/schnuffel/ich_hab_dich_lieb">Ich hab' dich lieb</a></li>
+<li><a href="/schnuffel/kuschel_song">Kuschel Song</a></li>
+<li><a href="/schnuffel/hab_dich_gern">Hab' dich gern</a></li>
+<li><a href="/schnuffel/wir_gehoeren_zusammen">Wir gehören zusammen</a></li>
+<li><a href="/schnuffel/du_bist_mein_allerliebster_freund">Du bist mein allerliebster Freund</a></li>
+<li><a href="/schnuffel/schnucki_putzi">Schnucki Putzi</a></li>
+<li><a href="/schnuffel/ich_will_zu_dir">Ich will zu dir</a></li>
+<li><a href="/schnuffel/wo_bist_du_hingegangen">Wo bist du hingegangen?</a></li>
+<li><span>Häschenparty</span></li>
+<li><a href="/schnuffel/alles_gute">Alles Gute</a></li>
+<li><a href="/schnuffel/bleib_heut_nacht_bei_mir">Bleib heut Nacht bei mir</a></li>
+<li><a href="/schnuffel/schlaf_schoen_mein_schatz">Schlaf schön mein Schatz</a></li>
+<li><a href="/schnuffel/bitte_komm_doch_wieder">Bitte komm doch wieder</a></li>
+<li><a href="/schnuffel/tausend_kuesschen">Tausend Küsschen</a></li>
+<li><a href="/schnuffel/komm_mich_knuddeln">Komm mich knuddeln</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="songBanner linkDiv" href="https://game.lyrsense.com/schnuffel">
+<img class="artistBck" src="/./images/artists/de_schnuffel.jpg" width="85"/>
+<img class="gamebnnr" height="150" src="/images/styles_5/game_new_banner.png" width="300"/>
+</div>
+<div id="sideYaBlock" style="margin:10px 0; text-align:center; height:300px; width:300px;">
+<!-- Yandex.RTB R-A-138894-70 -->
+<div id="yandex_rtb_R-A-138894-70"></div>
+
+</div>
+<div class="contentBlock" id="videoBlock" style="padding-bottom:10px;">
+<div class="hs">
+<h3 style="padding-bottom:0; margin-bottom:0;">Добавить видео</h3>
+</div>
+<div style="width:100px; margin:15px auto 0 auto;">
+<img class="addYtVideo" src="/images/styles_5/add_yt.png"/>
+</div>
+<p>Укажите ссылку на видео с YouTube к этой песне, чтобы загрузить видео.</p>
+<input class="checkHash" type="hidden" value="2287daf0b172ef4070a5e264fbcfc123">
+<input class="songId" type="hidden" value="28405"/>
+</input></div>
+
+<div class="columnBlock noTopBorder sideAds" style="padding:0; margin-bottom:10px; min-height:250px; width:300px;">
+<!-- Yandex.RTB R-A-138894-72 -->
+<div id="yandex_rtb_R-A-138894-72"></div>
+
+</div>
+<div class="contentBlock album hs" style="padding:0;">
+<div id="vk_groups_ls"></div>
+
+</div>
+<div class="contentBlock">
+<h3>Популярные песни</h3>
+<div class="hp_index_row">
+<div class="hp_index_position">1.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35157_8.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/miley_cyrus/flowers_mc">Flowers</a><br/>
+<a href="/miley_cyrus" style="color:#7b7b7b">Miley Cyrus</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">2.</div>
+<div>
+<img alt="" height="50" src="/images/albums/es_album_14.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/manu_chao/me_gustas_tu">Me gustas tú</a><br/>
+<a href="/manu_chao" style="color:#7b7b7b">Manu Chao</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">3.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/fr_album_726.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/zaz/je_veux">Je veux</a><br/>
+<a href="/zaz" style="color:#7b7b7b">ZAZ</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">4.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_2488_469.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/deutschland_R">Deutschland</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">5.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_7.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/sonne">Sonne</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">6.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35216_1.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/shakira/bzrp_music_sessions_53">BZRP Music Sessions #53</a><br/>
+<a href="/shakira" style="color:#7b7b7b">Shakira</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">7.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_34293_1.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/kim_petras/treat_me_like_a_slut">Treat me like a slut</a><br/>
+<a href="/kim_petras" style="color:#7b7b7b">Kim Petras</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">8.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_21.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/du_hast">Du hast</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">9.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_1684.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rabauken/was_wollen_wir_trinken">Was wollen wir trinken</a><br/>
+<a href="/rabauken" style="color:#7b7b7b">Rabauken</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">10.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35310_9.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/sam_smith/unholy_s">Unholy</a><br/>
+<a href="/sam_smith" style="color:#7b7b7b">Sam Smith</a>
+</div>
+</div>
+</div>
+</div>
+</td>
+
+
+
+<div class="footer">
+<div class="bodyLayout">
+<div class="footerDiv">
+<table>
+<tr>
+<td>
+<h4>Lyrsense</h4>
+<ul>
+<li><a href="/advertising">Разместить рекламу</a></li>
+<li><a href="/partner">Партнерская программа</a></li>
+<li><a href="/donation">Поддержи сайт</a></li>
+</ul>
+</td>
+<td>
+<h4>Интересное</h4>
+<ul>
+<li><a href="https://game.lyrsense.com/" rel="nofollow">Игра «Угадай мелодию!»</a></li>
+<li><a href="/hitParad" rel="nofollow">Хит-парад</a></li>
+<li><a href="/radio" rel="nofollow">Персональное радио</a></li>
+</ul>
+</td>
+<td>
+<h4>Общение</h4>
+<ul>
+<li><a href="/feedback" rel="nofollow">Обратная связь</a></li>
+<li><a href="https://vk.com/lyrsense_com" rel="nofollow">Паблик в VK</a></li>
+<li><a href="https://forum.lyrsense.com/index.php" rel="nofollow">Форум</a></li>
+</ul>
+</td>
+<td>
+</td>
+</tr>
+</table>
+<div class="greyText">
+<span>Copyright © lyrsense.com, 2009–2023</span><br/>
+				Авторские права на перевод принадлежат авторам перевода. <br/>Пожалуйста, согласовывайте с авторами переводов возможность копирования материалов. 16+<br/>
+<a href="/terms" style="color:#7b7b7b;">Пользовательское соглашение</a> <a href="/privacy" style="color:#7b7b7b;">Политика конфиденциальности</a> 				
+				﻿
+
+
+<!-- Yandex.Metrika counter -->
+
+
+<!-- /Yandex.Metrika counter -->
+<!--/LiveInternet-->
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

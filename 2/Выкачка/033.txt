@@ -1,0 +1,594 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Juliet — Cavetown | Перевод и текст песни</title>
+<meta content="Перевод Juliet, Cavetown, клип, слушайть онлайн, текст песни, lyrsense" name="keywords"/>
+<meta content="Перевод песни Juliet (Cavetown) | Текст и перевод песни | Видео-клипы | Lyrsense" name="description"/>
+<meta content="Иванов Родион" name="author"/>
+<meta content="Иванов Родион" name="copyright"/>
+<meta content="width=device-width" name="viewport"/>
+
+<meta content="406ff1315d88e05e" name="yandex-verification">
+<meta content="IRpKkmfoN8t2gWivT2dg2N3QkBjTeJdDxCrRpSFVRuM" name="google-site-verification"/>
+
+
+
+
+<!--<link href="/css/styles_ny.css" rel="stylesheet" type="text/css" />-->
+<!--<link href="/css/styles_bd.css" rel="stylesheet" type="text/css" />-->
+
+</meta></head>
+<body>
+<div id="mp_custom_5974"></div>
+
+<div class="videoUndeCover"></div>
+<div class="videoCenterBlock" id="videoCenterBlock">
+<div class="videoButtons">
+<img alt="Развернуть " class="hidden" id="upVideo" src="/images/styles_5/window.png"/>
+<img alt="Свернуть вниз" id="downVideo" src="/images/styles_5/down.png"/>
+<img alt="Закрыть" id="closeVideo" src="/images/styles_5/close.png"/>
+</div>
+<div id="loadingVideo"></div>
+<div class="YaAds">
+<!-- R-138894-22 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-22"></div>
+
+</div>
+</div>
+<div class="bodyLayout">
+<div class="header noPrint ny_ls">
+<div class="topMenu hs">
+<table class="fullWidth">
+<tr>
+<td class="topMenuTd">
+<table>
+<tr>
+<td><a class="toOther" href="/" title="lyrsense.com">Главная</a></td>
+<td><a class="toOther" href="/fr" title="lyrsense.com">Французские</a></td>
+<td><a class="toOther" href="/it" title="lyrsense.com">Итальянские</a></td>
+<td><a class="toOther" href="/es" title="lyrsense.com">Испанские</a></td>
+<td><a class="toOther" href="/en" title="lyrsense.com">Английские</a></td>
+<td><a class="toOther" href="/de" title="lyrsense.com">Немецкие</a></td>
+<td><a class="toOtherls" href="https://forum.lyrsense.com/" title="форум">Форум</a></td>
+</tr>
+</table>
+</td>
+<td class="topRightMenu">
+<div>
+<div class="socTop">
+<a href="https://vk.com/lyrsense_com" target="_blank" title="Мы в Контакте"><img alt="Мы в Контакте" height="17" src="/images/styles_5/soc_vk.png" width="17"/></a>
+<a href="https://twitter.com/lyrsense" target="_blank" title="Мы в Твиттере"><img alt="Мы в Твиттере" height="17" src="/images/styles_5/soc_twitter.png" width="20"/></a>
+<a href="https://forum.lyrsense.com/" title="Форум"><img alt="Форум" height="18" src="/images/styles_5/soc_forum.png" width="17"/></a>
+</div>
+<span class="helloWorld hs" id="helloWorld">
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="float:right">
+<div class="lastSongs hidden dopBlock" id="lastSongs">
+<div class="userProfile">
+<div class="userProfileTop">
+<img id="userProfileImg" src="/images/userDefault.png"/>
+<span id="userProfileName"></span>
+<a href="/profile/newLogin?logout">выйти</a>
+</div>
+<div class="profileLogin">
+<div style="padding-bottom:15px;">
+					Авторизируйтесь через социальные сети или на <a href="https://forum.lyrsense.com/">форуме</a>
+</div>
+<div class="loginIcons">
+<a href="/profile/newLogin?loginWith=vk"><img src="/images/styles_5/ulogin_vkontakte.png"/></a>
+<a href="/profile/newLogin?loginWith=facebook"><img src="/images/styles_5/ulogin_facebook.png"/></a>
+<a href="/profile/newLogin?loginWith=google"><img src="/images/styles_5/ulogin_google.png"/></a>
+<a href="/profile/newLogin?loginWith=yandex"><img src="/images/styles_5/ulogin_yandex.png"/></a>
+<a href="/profile/newLogin?loginWith=odnoklassniki"><img src="/images/styles_5/ulogin_odnoklassniki.png"/></a>
+<a href="/profile/newLogin?loginWith=mailru"><img src="/images/styles_5/ulogin_mailru.png"/></a>
+</div>
+</div>
+<ul class="userProfileMenu">
+<li><a href="/profile/myWorks">Мои переводы</a></li>
+<li><a href="/profile/myFavorite">Любимые песни</a></li>
+<li><a href="/profile/mySubscribes">Подписки</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="menu">
+<ul>
+<li class="addSong"><a href="/addSong" rel="nofollow">Добавить перевод</a></li>
+<li><a href="/authors">Наши авторы</a></li>
+<li><a href="/hitParad">Хит-парад</a></li>
+<li><a href="https://game.lyrsense.com" rel="nofollow">Угадай мелодию!</a></li>
+<li><a href="/tags" rel="nofollow">Песни по тегам</a></li>
+<!--<li><a href="/faq" rel="nofollow">FAQ</a></li>-->
+</ul>
+</div>
+<div>
+<div style="float:left; width: 290px;padding-top:5px;">
+<!--<img src="/images/styles_5/0309.png" style='position:absolute; z-index:999; cursor:pointer; margin:50px 0 0 59px;' id="calendar0309"/>-->
+<a href="/" title="На главную"><img alt="lyrsense.com" class="gem" height="66" src="/images/styles_5/gem_ls.png" width="80"/></a>
+<a href="/" title="На главную"><img alt="lyrsense.com" class="logo" height="45" src="/images/styles_5/logo.png" width="167"/></a>
+</div>
+<div class="search">
+<form action="/search">
+<input autocomplete="off" class="search foldSearch" id="fastLsSearch" name="s" type="text" value=""/>
+<div style="float:right">
+<input alt="Найти" id="searchIcon" name="search" type="submit" value=""/>
+</div>
+<div style="position:absolute;">
+<img alt="" height="16" id="searchLoader" src="/images/styles_5/preloader.png" width="16">
+</img></div>
+</form>
+</div>
+</div>
+<div class="literasFirst" id="allLiteras">
+<ul class="shortLiters" id="shortLitersUl">
+<li><a href="/alphabet/lit_A">A</a></li>
+<li><a href="/alphabet/lit_B">B</a></li>
+<li><a href="/alphabet/lit_C">C</a></li>
+<li><a href="/alphabet/lit_D">D</a></li>
+<li><a href="/alphabet/lit_E">E</a></li>
+<li><a href="/alphabet/lit_F">F</a></li>
+<li><a href="/alphabet/lit_G">G</a></li>
+<li><a href="/alphabet/lit_H">H</a></li>
+<li><a href="/alphabet/lit_I">I</a></li>
+<li><a href="/alphabet/lit_J">J</a></li>
+<li><a href="/alphabet/lit_K">K</a></li>
+<li><a href="/alphabet/lit_L">L</a></li>
+<li><a href="/alphabet/lit_M">M</a></li>
+<li><a href="/alphabet/lit_N">N</a></li>
+<li><a href="/alphabet/lit_O">O</a></li>
+<li><a href="/alphabet/lit_P">P</a></li>
+<li><a href="/alphabet/lit_Q">Q</a></li>
+<li><a href="/alphabet/lit_R">R</a></li>
+<li><a href="/alphabet/lit_S">S</a></li>
+<li><a href="/alphabet/lit_T">T</a></li>
+<li><a href="/alphabet/lit_U">U</a></li>
+<li><a href="/alphabet/lit_V">V</a></li>
+<li><a href="/alphabet/lit_W">W</a></li>
+<li><a href="/alphabet/lit_X">X</a></li>
+<li><a href="/alphabet/lit_Y">Y</a></li>
+<li><a href="/alphabet/lit_Z">Z</a></li>
+<li><a href="/alphabet/lit_num">#</a></li>
+</ul>
+</div>
+</div>
+<table class="layout fullWidth">
+<tr>
+<td></td>
+<td width="310"></td>
+</tr>
+<tr>
+<td class="middleRow" id="textColumn">
+<div class="contentBlock" style="margin:0; padding-bottom:0;">
+<div class="printLogo hidden">
+<img class="logoPrint" src="/images/styles_5/logoBlck.png"/>
+</div>
+<h1 style="padding-bottom:0;">Перевод песни Juliet (Cavetown)</h1>
+<div class="noPrint" style="position:relative;top:15px;"></div>
+</div>
+<div class="contentBlock noPrint" style="padding-bottom:10px; margin-bottom:5px;">
+<div class="breadcrumbs songBreads" id="breadcrumbs" style="">
+<div id="load">
+			Загрузка...
+			</div>
+<div itemscope="" itemtype="https://schema.org/BreadcrumbList" style="display:inline;">
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/cavetown" itemprop="item"><span itemprop="name">Cavetown</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="1" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/cavetown#album_30963" itemprop="item"><span itemprop="name">Animal Kingdom</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="2" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<span itemprop="name">Juliet</span>
+<meta content="3" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="noPrint hs" id="topBaner" style="margin:15px auto 0 auto; text-align:center; height:90px;">
+<!-- Yandex.RTB R-A-138894-68 -->
+<div id="yandex_rtb_R-A-138894-68"></div>
+
+</div>
+</div>
+<div id="layoutText">
+<div class="buttons tabPlane noPrint" id="buttons">
+</div>
+<div class="contentBlock" style="clear:both;">
+<input id="id_song" name="id_song" type="hidden" value="126772"/>
+<input id="hash_song" name="hash_song" type="hidden" value="719e02c688e83f190a6d5e4cb3c23b41"/>
+<div id="layoutText">
+<div class="halfWidthDiv">
+<h2 class="hs" id="fr_title">Juliet</h2>
+</div>
+<div class="halfWidthDiv">
+<div class="sideButtons">
+<div style="position:absolute;width:20px;">
+<div class="likeSongLabel">
+<img class="setLiked button" height="17" id="set_like_126772" src="/images/styles_5/player/like_normal.png" width="20">
+</img></div>
+<a href="javascript:window.print()">
+<img alt="" class="noPrint" height="18" id="printPage" src="/images/styles_5/print.png" title="Распечатать перевод" width="20">
+</img></a>
+<img alt="Увеличить шрифт" class="fontBigger noPrint" height="18" src="/images/styles_5/f-bigger.png" width="20"/>
+<img alt="Уменьшить шрифт" class="fontSmaller noPrint" height="18" src="/images/styles_5/f-smaller.png" width="20"/>
+</div>
+</div>
+<h2 class="hs" id="ru_title">Джульетта</h2>
+</div>
+<br style="clear:both;"/>
+<div class="halfWidthDiv fontChange" style="padding-right:10px;">
+
+
+
+
+
+<p class="hs" id="fr_text"><span class="highlightLine puzEng line1" line="1">I need to cry but I can't get anything out of my eyes</span><br/><span class="highlightLine puzEng line2" line="2">Or my head</span><br/><span class="highlightLine puzEng line3" line="3">Did I die?</span><br/><span class="highlightLine puzEng line4" line="4">I need to run but I can't get out of bed for anyone</span><br/><span class="highlightLine puzEng line5" line="5">Not for you, hun</span><br/><br/><span class="highlightLine puzEng line7" line="7">My sour boy is a pain</span><br/><span class="highlightLine puzEng line8" line="8">I wanna shoot him in the brain</span><br/><span class="highlightLine puzEng line9" line="9">But I’d miss him in the morning</span><br/><span class="highlightLine puzEng line10" line="10">It really hurts when I need to so bad but I can’t see her</span><br/><span class="highlightLine puzEng line11" line="11">My Juliet, my special girl</span><br/><br/><span class="highlightLine puzEng line13" line="13">But I need to understand</span><br/><span class="highlightLine puzEng line14" line="14">When I can power through</span><br/><span class="highlightLine puzEng line15" line="15">And when I need some help from you</span><br/><span class="highlightLine puzEng line16" line="16">When I should stand my ground</span><br/><span class="highlightLine puzEng line17" line="17">And when I need to just sit down</span><br/><span class="highlightLine puzEng line18" line="18">Sometimes I act like I know</span><br/><span class="highlightLine puzEng line19" line="19">But I’m really just a kid</span><br/><span class="highlightLine puzEng line20" line="20">With two corks in his eyes</span><br/><span class="highlightLine puzEng line21" line="21">And a bully in his head</span><br/><br/><span class="highlightLine puzEng line23" line="23">I wanna make a colour that no one else has seen before</span><br/><span class="highlightLine puzEng line24" line="24">I wanna be so much more</span><br/><span class="highlightLine puzEng line25" line="25">I hope that she looks at me and thinks “shit, he’s so pretty”</span><br/><span class="highlightLine puzEng line26" line="26">Something I can’t believe</span><br/><br/><span class="highlightLine puzEng line28" line="28">But I need to understand</span><br/><span class="highlightLine puzEng line29" line="29">When I can power through</span><br/><span class="highlightLine puzEng line30" line="30">And when I need some help from you</span><br/><span class="highlightLine puzEng line31" line="31">When I should stand my ground</span><br/><span class="highlightLine puzEng line32" line="32">And when I need to just sit down</span><br/><span class="highlightLine puzEng line33" line="33">Sometimes I act like I know</span><br/><span class="highlightLine puzEng line34" line="34">But I’m really just a kid</span><br/><span class="highlightLine puzEng line35" line="35">With two corks in his eyes</span><br/><span class="highlightLine puzEng line36" line="36">And a bully in his head</span><br/><br/><span class="highlightLine puzEng line38" line="38">Sometimes I act like I know, but I’m really just a kid</span><br/><span class="highlightLine puzEng line39" line="39">With two corks in his eyes, and a bully in his head</span><br/><span class="highlightLine puzEng line40" line="40">Sometimes I act like I know, but I’m really just a kid</span><br/><span class="highlightLine puzEng line41" line="41">With two corks in his eyes, and a bully in his head</span><br/></p>
+
+</div>
+<div class="halfWidthDiv fontChange">
+<p class="hs" id="ru_text"><span class="highlightLine line1" line="1">Мне нужно плакать, но я не могу выжать ничего из глаз</span><br/><span class="highlightLine line2" line="2">Или головы.</span><br/><span class="highlightLine line3" line="3">Неужели я умер?</span><br/><span class="highlightLine line4" line="4">Я должен бежать, но я не могу выбраться из кровати,</span><br/><span class="highlightLine line5" line="5">Даже ради тебя, любимая.</span><br/><br/><span class="highlightLine line7" line="7">Мой кислый мальчик приносит одну боль,</span><br/><span class="highlightLine line8" line="8">Я хочу пристрелить его в мозг,</span><br/><span class="highlightLine line9" line="9">Но я буду скучать по нему утром.</span><br/><span class="highlightLine line10" line="10">Так больно, когда мне так нужно, но я не могу увидеть её,</span><br/><span class="highlightLine line11" line="11">Мою Джульетту, мою особенную девочку.</span><br/><br/><span class="highlightLine line13" line="13">Но я должен понимать,</span><br/><span class="highlightLine line14" line="14">Когда я смогу пробиться через силу</span><br/><span class="highlightLine line15" line="15">И когда мне нужна твоя помощь,</span><br/><span class="highlightLine line16" line="16">Когда я должен стоять на своём</span><br/><span class="highlightLine line17" line="17">И когда я должен просто сидеть на земле.</span><br/><span class="highlightLine line18" line="18">Иногда я веду себя, как будто я знаю,</span><br/><span class="highlightLine line19" line="19">Но я просто ребёнок</span><br/><span class="highlightLine line20" line="20">С двумя пробками в глазах</span><br/><span class="highlightLine line21" line="21">И хулиганом в голове.</span><br/><br/><span class="highlightLine line23" line="23">Я хочу создать цвет, который ещё никто не видел,</span><br/><span class="highlightLine line24" line="24">Я хочу быть чем-то гораздо большим.</span><br/><span class="highlightLine line25" line="25">Надеюсь, она смотрит на меня и думает: "Чёрт, он красивый",</span><br/><span class="highlightLine line26" line="26">Что-то, во что я не могу поверить.</span><br/><br/><span class="highlightLine line28" line="28">Но я должен понимать,</span><br/><span class="highlightLine line29" line="29">Когда я смогу пробиться через силу</span><br/><span class="highlightLine line30" line="30">И когда мне нужна твоя помощь,</span><br/><span class="highlightLine line31" line="31">Когда я должен стоять на своём</span><br/><span class="highlightLine line32" line="32">И когда я должен просто сидеть на земле.</span><br/><span class="highlightLine line33" line="33">Иногда я веду себя, как будто я знаю,</span><br/><span class="highlightLine line34" line="34">Но я просто ребёнок</span><br/><span class="highlightLine line35" line="35">С двумя пробками в глазах</span><br/><span class="highlightLine line36" line="36">И хулиганом в голове.</span><br/><br/><span class="highlightLine line38" line="38">Иногда я веду себя, как будто я знаю, но я просто ребёнок</span><br/><span class="highlightLine line39" line="39">С двумя пробками в глазах и хулиганом в голове.</span><br/><span class="highlightLine line40" line="40">Иногда я веду себя, как будто я знаю, но я просто ребёнок</span><br/><span class="highlightLine line41" line="41">С двумя пробками в глазах и хулиганом в голове.</span><br/></p>
+<div class="buttons" id="buttonsBottom">
+</div>
+<div class="author" style="margin-top:10px">
+<div id="author_var1">
+<input id="sp_author_var1" name="sp_author" type="hidden" value="196"/>
+						Автор перевода — <noindex><span style="font-weight:bold">Юзу</span><br/><a class="noPrint" href="/authors/usu" rel="nofollow">Страница автора</a></noindex>
+</div>
+</div>
+</div>
+<br style="clear:both;"/>
+<div class="hrDiv" id="endOfText"></div>
+<div class="comment hs" id="comment">
+</div>
+<div style="color:#6c6c6c; padding-bottom:10px;">
+</div>
+<div class="noPrint" style="padding:7px 0;height: 50px;">
+<!-- BEGIN: gRating --->
+<div class="gRating">
+<div style="text-align:center; width:30px">
+<span id="messageVoted"></span>
+</div>
+<div style="float:left; margin:-3px 10px 0 0;">
+<h3>Понравился перевод?</h3>
+</div>
+<div class="ratingStars" id="ratingStars" style="float:left; margin:5px 0px 0 0;">
+<img alt="*" class="ratingStar" height="24" id="star_1" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_2" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_3" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_4" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_5" src="/images/styles_5/Star-Full.png" width="24"/>
+</div>
+<div style="float:right; margin:-3px 0 0 0; padding: 0 0 10px 0; clear:both; color:silver;">
+<div itemscope="" itemtype="https://schema.org/AggregateRating">
+<div>
+<span itemprop="itemReviewed" itemscope="" itemtype="https://schema.org/MusicRecording">
+<span itemprop="name" style="color:white;position:absolute; margin:-4000px 0 0 0;">Перевод песни Juliet — Cavetown</span>
+</span>
+<span>
+<span style="position:relative; top:4px; float:right;">
+											Рейтинг: <span id="avr" itemprop="ratingValue">5</span> / <span itemprop="bestRating">5</span>   
+											<span id="voted" itemprop="ratingCount">108</span> мнений
+										</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+<!-- END: gRating --->
+</div>
+<div class="noPrint" style="width:728px; margin: 10px auto; height:90px;">
+<!-- Yandex.RTB R-A-138894-74 -->
+<div id="yandex_rtb_R-A-138894-74"></div>
+
+</div>
+<div class="hrDiv noPrint"></div>
+</div>
+<div class="noPrint" style="margin-top:10px;">
+<div class="thanksForum">
+<a class="redLink" href="https://forum.lyrsense.com/showthread.php?p=1412#post1412" rel="nofollow">Поблагодарить<br/> за перевод на форуме</a>
+</div>
+<p class="sendErrorText">Ошибки, замечания, пожелания по переводу? — <a class="dashedRed" href="/feedback?foundError&amp;id=126772" id="foundErrorLink" rel="nofollow">сообщите нам</a></p>
+<div class="sendErrorDiv dopBlock modalBlock hidden">
+<form>
+<div id="notLogedUser">
+<label>Представьтесь, пожалуйста:</label>
+<input class="name text" id="name" name="name" style="width:211px !important" type="text" value="">
+<input id="nameUser" name="logedName" type="hidden" value=""/>
+</input></div>
+<div id="logedUser"></div>
+<textarea class="errorForm" id="message" name="message"></textarea><br/>
+<span class="error" id="errors"></span><br/>
+<input id="songId" name="songId" type="hidden" value="126772"/>
+<a class="dashedRed" href="#" id="sendError" rel="nofollow">Отправить</a>
+</form>
+<br style="clear:both"/>
+</div>
+</div>
+<div class="successSend"></div>
+</div>
+</div>
+</td></tr></table></div>
+<div class="contentBlock noPrint" style="clear:both;">
+<div class="similarSongs">
+<h2>Вам могут понравиться</h2>
+<div class="hs" style="width:240px;height:600px; float:right;">
+<!-- R-138894-21 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-21"></div>
+
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/rammstein/zeit_rt"><img alt="" height="150" src="/./images/albums/de_album_2858_821.png" width="150"/></a><br/>
+<a href="/rammstein/zeit_rt" style="font-size:16px;">Zeit</a><br/>
+<a class="greyText" href="/rammstein">Rammstein</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/alec_benjamin/water_fountain"><img alt="" height="150" src="/./images/albums/en_album_13699_827.jpg" width="150"/></a><br/>
+<a href="/alec_benjamin/water_fountain" style="font-size:16px;">Water fountain</a><br/>
+<a class="greyText" href="/alec_benjamin">Alec Benjamin</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/beach_house/space_song"><img alt="" height="150" src="/./images/albums/en_album_18837.jpg" width="150"/></a><br/>
+<a href="/beach_house/space_song" style="font-size:16px;">Space song</a><br/>
+<a class="greyText" href="/beach_house">Beach House</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/taylor_swift/shake_it_off_ts"><img alt="" height="150" src="/./images/albums/en_album_8326_568.jpg" width="150"/></a><br/>
+<a href="/taylor_swift/shake_it_off_ts" style="font-size:16px;">Shake it off</a><br/>
+<a class="greyText" href="/taylor_swift">Taylor Swift</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/rabauken/was_wollen_wir_trinken"><img alt="" height="150" src="/./images/albums/de_album_1684.jpg" width="150"/></a><br/>
+<a href="/rabauken/was_wollen_wir_trinken" style="font-size:16px;">Was wollen wir trinken</a><br/>
+<a class="greyText" href="/rabauken">Rabauken</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/rammstein/adieu_ramm"><img alt="" height="150" src="/./images/albums/de_album_2858_821.png" width="150"/></a><br/>
+<a href="/rammstein/adieu_ramm" style="font-size:16px;">Adieu</a><br/>
+<a class="greyText" href="/rammstein">Rammstein</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/metal_gear/the_only_thing_i_know_for_real"><img alt="" height="150" src="/./images/albums/soundtrack_album_1622.jpg" width="150"/></a><br/>
+<a href="/metal_gear/the_only_thing_i_know_for_real" style="font-size:16px;">The only thing I know for real</a><br/>
+<a class="greyText" href="/metal_gear">Metal Gear</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/michael_jackson/billie_jean"><img alt="" height="150" src="/./images/albums/en_album_1641.jpg" width="150"/></a><br/>
+<a href="/michael_jackson/billie_jean" style="font-size:16px;">Billie Jean</a><br/>
+<a class="greyText" href="/michael_jackson">Michael Jackson</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/sting/desert_rose"><img alt="" height="150" src="/./images/albums/en_album_31.jpg" width="150"/></a><br/>
+<a href="/sting/desert_rose" style="font-size:16px;">Desert rose</a><br/>
+<a class="greyText" href="/sting">Sting</a>
+</div>
+</div>
+<br style="clear:both;"/>
+</div>
+
+
+<td class="thirdColumn thinColumn">
+<div class="contentBlock album">
+<div class="album topAlbumBlock">
+<img alt="Animal Kingdom" class="hs" src="/./images/albums/en_album_16181_911.jpg"/>
+<h3>Animal Kingdom</h3>
+<h4>Cavetown</h4>
+<br style="clear:both;"/>
+<div class="tracklistDiv">
+<a class="dashed trackListLink">Треклист</a> <span class="countSong trackListLink">(4)</span>
+<ul class="tracklist">
+<li><span>Juliet</span></li>
+<li><a href="/cavetown/boys_will_be_bugs">Boys will be bugs</a></li>
+<li><a href="/cavetown/advicec">Advice</a></li>
+<li><a href="/cavetown/hug_all_ur_friends">hug all ur friends</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="songBanner linkDiv" href="https://game.lyrsense.com/cavetown">
+<img class="artistBck" src="/./images/artists/en_cavetown_850.jpeg" width="85"/>
+<img class="gamebnnr" height="150" src="/images/styles_5/game_new_banner.png" width="300"/>
+</div>
+<div id="sideYaBlock" style="margin:10px 0; text-align:center; height:300px; width:300px;">
+<!-- Yandex.RTB R-A-138894-70 -->
+<div id="yandex_rtb_R-A-138894-70"></div>
+
+</div>
+<div class="contentBlock" id="videoBlock" style="padding-bottom:10px;">
+<div class="hs">
+<h3 style="padding-bottom:0; margin-bottom:0;">Видеоклип</h3>
+</div>
+<img class="videoImg" src="https://i.ytimg.com/vi/GYsgDprYmIw/0.jpg" ytcode="GYsgDprYmIw"/>
+<img height="24" src="/images/styles_5/youtube-logo-55x24.png" style="float:right; margin-top:8px; " width="55"/>
+<p style="color:gray; font-size:11px; line-height:15px;"><strong>Видеоклипы</strong> к песне предоставляются сайтом youtube.com. Возможны некоторые несоответствия клипов песне.<br/><a href="/rulesVideo">Отказ от ответственности</a></p>
+</div>
+
+<div class="columnBlock noTopBorder sideAds" style="padding:0; margin-bottom:10px; min-height:250px; width:300px;">
+<!-- Yandex.RTB R-A-138894-72 -->
+<div id="yandex_rtb_R-A-138894-72"></div>
+
+</div>
+<div class="contentBlock album hs" style="padding:0;">
+<div id="vk_groups_ls"></div>
+
+</div>
+<div class="contentBlock">
+<h3>Популярные песни</h3>
+<div class="hp_index_row">
+<div class="hp_index_position">1.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35157_8.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/miley_cyrus/flowers_mc">Flowers</a><br/>
+<a href="/miley_cyrus" style="color:#7b7b7b">Miley Cyrus</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">2.</div>
+<div>
+<img alt="" height="50" src="/images/albums/es_album_14.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/manu_chao/me_gustas_tu">Me gustas tú</a><br/>
+<a href="/manu_chao" style="color:#7b7b7b">Manu Chao</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">3.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/fr_album_726.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/zaz/je_veux">Je veux</a><br/>
+<a href="/zaz" style="color:#7b7b7b">ZAZ</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">4.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_2488_469.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/deutschland_R">Deutschland</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">5.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_7.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/sonne">Sonne</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">6.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35216_1.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/shakira/bzrp_music_sessions_53">BZRP Music Sessions #53</a><br/>
+<a href="/shakira" style="color:#7b7b7b">Shakira</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">7.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_34293_1.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/kim_petras/treat_me_like_a_slut">Treat me like a slut</a><br/>
+<a href="/kim_petras" style="color:#7b7b7b">Kim Petras</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">8.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_21.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/du_hast">Du hast</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">9.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_1684.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rabauken/was_wollen_wir_trinken">Was wollen wir trinken</a><br/>
+<a href="/rabauken" style="color:#7b7b7b">Rabauken</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">10.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35310_9.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/sam_smith/unholy_s">Unholy</a><br/>
+<a href="/sam_smith" style="color:#7b7b7b">Sam Smith</a>
+</div>
+</div>
+</div>
+</div>
+<div class="contentBlock">
+<h3>Событие</h3>
+<a href="/lucas_arnau"><img height="75" src="/images/events/es_event_86.jpg" style="float:right; margin:0 0 5px 5px" width="75"/></a>
+<b>Вчера</b>
+<p>16.03.(1979) День рождения <a href="/lucas_arnau">Lucas Arnau</a></p>
+</div>
+</td>
+
+
+
+<div class="footer">
+<div class="bodyLayout">
+<div class="footerDiv">
+<table>
+<tr>
+<td>
+<h4>Lyrsense</h4>
+<ul>
+<li><a href="/advertising">Разместить рекламу</a></li>
+<li><a href="/partner">Партнерская программа</a></li>
+<li><a href="/donation">Поддержи сайт</a></li>
+</ul>
+</td>
+<td>
+<h4>Интересное</h4>
+<ul>
+<li><a href="https://game.lyrsense.com/" rel="nofollow">Игра «Угадай мелодию!»</a></li>
+<li><a href="/hitParad" rel="nofollow">Хит-парад</a></li>
+<li><a href="/radio" rel="nofollow">Персональное радио</a></li>
+</ul>
+</td>
+<td>
+<h4>Общение</h4>
+<ul>
+<li><a href="/feedback" rel="nofollow">Обратная связь</a></li>
+<li><a href="https://vk.com/lyrsense_com" rel="nofollow">Паблик в VK</a></li>
+<li><a href="https://forum.lyrsense.com/index.php" rel="nofollow">Форум</a></li>
+</ul>
+</td>
+<td>
+</td>
+</tr>
+</table>
+<div class="greyText">
+<span>Copyright © lyrsense.com, 2009–2023</span><br/>
+				Авторские права на перевод принадлежат авторам перевода. <br/>Пожалуйста, согласовывайте с авторами переводов возможность копирования материалов. 16+<br/>
+<a href="/terms" style="color:#7b7b7b;">Пользовательское соглашение</a> <a href="/privacy" style="color:#7b7b7b;">Политика конфиденциальности</a> 				
+				﻿
+
+
+<!-- Yandex.Metrika counter -->
+
+
+<!-- /Yandex.Metrika counter -->
+<!--/LiveInternet-->
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

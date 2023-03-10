@@ -1,0 +1,604 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>La Seine — Un monstre à Paris (Монстр в Париже) | Перевод и текст песни</title>
+<meta content="Перевод La Seine, Un monstre à Paris, клип, слушайть онлайн, текст песни, lyrsense" name="keywords"/>
+<meta content="Перевод песни La Seine (Un monstre à Paris) | Текст и перевод песни | Видео-клипы | Lyrsense" name="description"/>
+<meta content="Иванов Родион" name="author"/>
+<meta content="Иванов Родион" name="copyright"/>
+<meta content="width=device-width" name="viewport"/>
+
+<meta content="406ff1315d88e05e" name="yandex-verification">
+<meta content="IRpKkmfoN8t2gWivT2dg2N3QkBjTeJdDxCrRpSFVRuM" name="google-site-verification"/>
+
+
+
+
+<!--<link href="/css/styles_ny.css" rel="stylesheet" type="text/css" />-->
+<!--<link href="/css/styles_bd.css" rel="stylesheet" type="text/css" />-->
+
+</meta></head>
+<body>
+<div id="mp_custom_5974"></div>
+
+<div class="videoUndeCover"></div>
+<div class="videoCenterBlock" id="videoCenterBlock">
+<div class="videoButtons">
+<img alt="Развернуть " class="hidden" id="upVideo" src="/images/styles_5/window.png"/>
+<img alt="Свернуть вниз" id="downVideo" src="/images/styles_5/down.png"/>
+<img alt="Закрыть" id="closeVideo" src="/images/styles_5/close.png"/>
+</div>
+<div id="loadingVideo"></div>
+<div class="YaAds">
+<!-- R-138894-22 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-22"></div>
+
+</div>
+</div>
+<div class="bodyLayout">
+<div class="header noPrint ny_ls">
+<div class="topMenu hs">
+<table class="fullWidth">
+<tr>
+<td class="topMenuTd">
+<table>
+<tr>
+<td><a class="toOther" href="/" title="lyrsense.com">Главная</a></td>
+<td><a class="toOther" href="/fr" title="lyrsense.com">Французские</a></td>
+<td><a class="toOther" href="/it" title="lyrsense.com">Итальянские</a></td>
+<td><a class="toOther" href="/es" title="lyrsense.com">Испанские</a></td>
+<td><a class="toOther" href="/en" title="lyrsense.com">Английские</a></td>
+<td><a class="toOther" href="/de" title="lyrsense.com">Немецкие</a></td>
+<td><a class="toOtherls" href="https://forum.lyrsense.com/" title="форум">Форум</a></td>
+</tr>
+</table>
+</td>
+<td class="topRightMenu">
+<div>
+<div class="socTop">
+<a href="https://vk.com/lyrsense_com" target="_blank" title="Мы в Контакте"><img alt="Мы в Контакте" height="17" src="/images/styles_5/soc_vk.png" width="17"/></a>
+<a href="https://twitter.com/lyrsense" target="_blank" title="Мы в Твиттере"><img alt="Мы в Твиттере" height="17" src="/images/styles_5/soc_twitter.png" width="20"/></a>
+<a href="https://forum.lyrsense.com/" title="Форум"><img alt="Форум" height="18" src="/images/styles_5/soc_forum.png" width="17"/></a>
+</div>
+<span class="helloWorld hs" id="helloWorld">
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="float:right">
+<div class="lastSongs hidden dopBlock" id="lastSongs">
+<div class="userProfile">
+<div class="userProfileTop">
+<img id="userProfileImg" src="/images/userDefault.png"/>
+<span id="userProfileName"></span>
+<a href="/profile/newLogin?logout">выйти</a>
+</div>
+<div class="profileLogin">
+<div style="padding-bottom:15px;">
+					Авторизируйтесь через социальные сети или на <a href="https://forum.lyrsense.com/">форуме</a>
+</div>
+<div class="loginIcons">
+<a href="/profile/newLogin?loginWith=vk"><img src="/images/styles_5/ulogin_vkontakte.png"/></a>
+<a href="/profile/newLogin?loginWith=facebook"><img src="/images/styles_5/ulogin_facebook.png"/></a>
+<a href="/profile/newLogin?loginWith=google"><img src="/images/styles_5/ulogin_google.png"/></a>
+<a href="/profile/newLogin?loginWith=yandex"><img src="/images/styles_5/ulogin_yandex.png"/></a>
+<a href="/profile/newLogin?loginWith=odnoklassniki"><img src="/images/styles_5/ulogin_odnoklassniki.png"/></a>
+<a href="/profile/newLogin?loginWith=mailru"><img src="/images/styles_5/ulogin_mailru.png"/></a>
+</div>
+</div>
+<ul class="userProfileMenu">
+<li><a href="/profile/myWorks">Мои переводы</a></li>
+<li><a href="/profile/myFavorite">Любимые песни</a></li>
+<li><a href="/profile/mySubscribes">Подписки</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="menu">
+<ul>
+<li class="addSong"><a href="/addSong" rel="nofollow">Добавить перевод</a></li>
+<li><a href="/authors">Наши авторы</a></li>
+<li><a href="/hitParad">Хит-парад</a></li>
+<li><a href="https://game.lyrsense.com" rel="nofollow">Угадай мелодию!</a></li>
+<li><a href="/tags" rel="nofollow">Песни по тегам</a></li>
+<!--<li><a href="/faq" rel="nofollow">FAQ</a></li>-->
+</ul>
+</div>
+<div>
+<div style="float:left; width: 290px;padding-top:5px;">
+<!--<img src="/images/styles_5/0309.png" style='position:absolute; z-index:999; cursor:pointer; margin:50px 0 0 59px;' id="calendar0309"/>-->
+<a href="/" title="На главную"><img alt="lyrsense.com" class="gem" height="66" src="/images/styles_5/gem_ls.png" width="80"/></a>
+<a href="/" title="На главную"><img alt="lyrsense.com" class="logo" height="45" src="/images/styles_5/logo.png" width="167"/></a>
+</div>
+<div class="search">
+<form action="/search">
+<input autocomplete="off" class="search foldSearch" id="fastLsSearch" name="s" type="text" value=""/>
+<div style="float:right">
+<input alt="Найти" id="searchIcon" name="search" type="submit" value=""/>
+</div>
+<div style="position:absolute;">
+<img alt="" height="16" id="searchLoader" src="/images/styles_5/preloader.png" width="16">
+</img></div>
+</form>
+</div>
+</div>
+<div class="literasFirst" id="allLiteras">
+<ul class="shortLiters" id="shortLitersUl">
+<li><a href="/alphabet/lit_A">A</a></li>
+<li><a href="/alphabet/lit_B">B</a></li>
+<li><a href="/alphabet/lit_C">C</a></li>
+<li><a href="/alphabet/lit_D">D</a></li>
+<li><a href="/alphabet/lit_E">E</a></li>
+<li><a href="/alphabet/lit_F">F</a></li>
+<li><a href="/alphabet/lit_G">G</a></li>
+<li><a href="/alphabet/lit_H">H</a></li>
+<li><a href="/alphabet/lit_I">I</a></li>
+<li><a href="/alphabet/lit_J">J</a></li>
+<li><a href="/alphabet/lit_K">K</a></li>
+<li><a href="/alphabet/lit_L">L</a></li>
+<li><a href="/alphabet/lit_M">M</a></li>
+<li><a href="/alphabet/lit_N">N</a></li>
+<li><a href="/alphabet/lit_O">O</a></li>
+<li><a href="/alphabet/lit_P">P</a></li>
+<li><a href="/alphabet/lit_Q">Q</a></li>
+<li><a href="/alphabet/lit_R">R</a></li>
+<li><a href="/alphabet/lit_S">S</a></li>
+<li><a href="/alphabet/lit_T">T</a></li>
+<li><a href="/alphabet/lit_U">U</a></li>
+<li><a href="/alphabet/lit_V">V</a></li>
+<li><a href="/alphabet/lit_W">W</a></li>
+<li><a href="/alphabet/lit_X">X</a></li>
+<li><a href="/alphabet/lit_Y">Y</a></li>
+<li><a href="/alphabet/lit_Z">Z</a></li>
+<li><a href="/alphabet/lit_num">#</a></li>
+</ul>
+</div>
+</div>
+<table class="layout fullWidth">
+<tr>
+<td></td>
+<td width="310"></td>
+</tr>
+<tr>
+<td class="middleRow" id="textColumn">
+<div class="contentBlock" style="margin:0; padding-bottom:0;">
+<div class="printLogo hidden">
+<img class="logoPrint" src="/images/styles_5/logoBlck.png"/>
+</div>
+<h1 style="padding-bottom:0;">Перевод песни La Seine (Un monstre à Paris)</h1>
+<div class="noPrint" style="position:relative;top:15px;"></div>
+</div>
+<div class="contentBlock noPrint" style="padding-bottom:10px; margin-bottom:5px;">
+<div class="breadcrumbs songBreads" id="breadcrumbs" style="">
+<div id="load">
+			Загрузка...
+			</div>
+<div itemscope="" itemtype="https://schema.org/BreadcrumbList" style="display:inline;">
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/un_monstre_a_paris" itemprop="item"><span itemprop="name">Un monstre à Paris</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="1" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/un_monstre_a_paris#album_13077" itemprop="item"><span itemprop="name">Un monstre à Paris (BOF)</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="2" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<span itemprop="name">La Seine</span>
+<meta content="3" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="noPrint hs" id="topBaner" style="margin:15px auto 0 auto; text-align:center; height:90px;">
+<!-- Yandex.RTB R-A-138894-68 -->
+<div id="yandex_rtb_R-A-138894-68"></div>
+
+</div>
+</div>
+<div id="layoutText">
+<div class="buttons tabPlane noPrint" id="buttons">
+<div class="tab selected" style="width:135px;">
+<a class="changeButtons" href="#v1" id="var1" rel="nofollow">Вариант 1</a>
+</div>
+<input id="prev" name="prev" type="hidden" value="var1"/>
+<div class="tab" style="width:135px;">
+<a class="changeButtons" href="#v2" id="var2" rel="nofollow">Вариант 2</a>
+</div>
+</div>
+<div class="contentBlock" style="clear:both;">
+<input id="id_song" name="id_song" type="hidden" value="22612"/>
+<input id="hash_song" name="hash_song" type="hidden" value="dc80a98145cf0a262c7ca9ae950709b2"/>
+<div id="layoutText">
+<div class="tags" style="padding-bottom:0 !important;">
+<b>Теги:</b> <a href="/tags/poetic">Стихотворные и литературные переводы</a>, <a href="/tags/leaders">Лидеры хит-парада</a>
+</div>
+<div class="halfWidthDiv">
+<h2 class="hs" id="fr_title">La Seine</h2>
+</div>
+<div class="halfWidthDiv">
+<div class="sideButtons">
+<div style="position:absolute;width:20px;">
+<div class="likeSongLabel">
+<img class="setLiked button" height="17" id="set_like_22612" src="/images/styles_5/player/like_normal.png" width="20">
+</img></div>
+<a href="javascript:window.print()">
+<img alt="" class="noPrint" height="18" id="printPage" src="/images/styles_5/print.png" title="Распечатать перевод" width="20">
+</img></a>
+<img alt="Увеличить шрифт" class="fontBigger noPrint" height="18" src="/images/styles_5/f-bigger.png" width="20"/>
+<img alt="Уменьшить шрифт" class="fontSmaller noPrint" height="18" src="/images/styles_5/f-smaller.png" width="20"/>
+</div>
+</div>
+<h2 class="hs" id="ru_title">Сена</h2>
+</div>
+<br style="clear:both;"/>
+<div class="halfWidthDiv fontChange" style="padding-right:10px;">
+<p class="hs" id="fr_text"><span class="highlightLine puzEng line1" line="1">Elle sort de son lit</span><br/><span class="highlightLine puzEng line2" line="2">Tellement sûre d'elle</span><br/><span class="highlightLine puzEng line3" line="3">La Seine, la Seine, la Seine</span><br/><span class="highlightLine puzEng line4" line="4">Tellement jolie elle m’ensorcelle</span><br/><span class="highlightLine puzEng line5" line="5">La Seine, la Seine, la Seine</span><br/><br/><span class="highlightLine puzEng line7" line="7">Extralucide, la lune est sur</span><br/><span class="highlightLine puzEng line8" line="8">La Seine, la Seine, la Seine</span><br/><span class="highlightLine puzEng line9" line="9">Tu n'es pas saoul</span><br/><span class="highlightLine puzEng line10" line="10">Paris est sous</span><br/><span class="highlightLine puzEng line11" line="11">La Seine, la Seine, la Seine</span><br/><br/><span class="highlightLine puzEng line13" line="13">Je ne sais, ne sais, ne sais pas pourquoi</span><br/><span class="highlightLine puzEng line14" line="14">C'est comme ça, la Seine et moi</span><br/><span class="highlightLine puzEng line15" line="15">Je ne sais, ne sais, ne sais pas pourquoi</span><br/><span class="highlightLine puzEng line16" line="16">On s'aime comme ça la Seine et moi</span><br/><br/><span class="highlightLine puzEng line18" line="18">Extra Lucille quand tu es sur</span><br/><span class="highlightLine puzEng line19" line="19">La scène, la scène, la scène</span><br/><span class="highlightLine puzEng line20" line="20">Extravagante quand l'ange est sur</span><br/><span class="highlightLine puzEng line21" line="21">La scène, la scène, la scène</span><br/><br/><span class="highlightLine puzEng line23" line="23">Je ne sais, ne sais, ne sais pas pourquoi</span><br/><span class="highlightLine puzEng line24" line="24">C'est comme ça, la Seine et moi</span><br/><span class="highlightLine puzEng line25" line="25">Je ne sais, ne sais, ne sais pas pourquoi</span><br/><span class="highlightLine puzEng line26" line="26">On s'aime comme ça la Seine et moi</span><br/><br/><span class="highlightLine puzEng line28" line="28">Sur le Pont des Arts</span><br/><span class="highlightLine puzEng line29" line="29">Mon coeur vacille</span><br/><span class="highlightLine puzEng line30" line="30">Entre les eaux</span><br/><span class="highlightLine puzEng line31" line="31">L'air est si bon</span><br/><br/><span class="highlightLine puzEng line33" line="33">Cet air si pur</span><br/><span class="highlightLine puzEng line34" line="34">Je le respire</span><br/><span class="highlightLine puzEng line35" line="35">Nos reflets perchés</span><br/><span class="highlightLine puzEng line36" line="36">Sur ce pont</span><br/></p>
+</div>
+<div class="halfWidthDiv fontChange">
+<p class="hs" id="ru_text"><span class="highlightLine line1" line="1">Она выходит из берегов,</span><br/><span class="highlightLine line2" line="2">Абсолютно уверенная в себе</span><br/><span class="highlightLine line3" line="3">Сена, Сена, Сена</span><br/><span class="highlightLine line4" line="4">Очень красивая, она меня околдовывает</span><br/><span class="highlightLine line5" line="5">Сена, Сена, Сена</span><br/><br/><span class="highlightLine line7" line="7">Очень ясная луна над</span><br/><span class="highlightLine line8" line="8">Сеной, Сеной, Сеной</span><br/><span class="highlightLine line9" line="9">Это не ты пьян —</span><br/><span class="highlightLine line10" line="10">Это Париж под</span><br/><span class="highlightLine line11" line="11">Сеной, Сеной, Сеной</span><br/><br/><span class="highlightLine line13" line="13">Я не знаю, не знаю, не знаю, почему</span><br/><span class="highlightLine line14" line="14">Это так — Сена и я</span><br/><span class="highlightLine line15" line="15">Я не знаю, не знаю, не знаю, почему</span><br/><span class="highlightLine line16" line="16">Мы так любим друг друга — Сена и я</span><br/><br/><span class="highlightLine line18" line="18">Экстра Люсиль, когда ты на</span><br/><span class="highlightLine line19" line="19">Сцене, сцене, сцене.</span><br/><span class="highlightLine line20" line="20">Экстравагантна в образе ангела<sup>1</sup> на</span><br/><span class="highlightLine line21" line="21">Сцене, сцене, сцене.</span><br/><br/><span class="highlightLine line23" line="23">Я не знаю, не знаю, не знаю, почему</span><br/><span class="highlightLine line24" line="24">Это так — Сена и я</span><br/><span class="highlightLine line25" line="25">Я не знаю, не знаю, не знаю, почему</span><br/><span class="highlightLine line26" line="26">Мы так любим друг друга — Сена и я</span><br/><br/><span class="highlightLine line28" line="28">На Мосту Искусств</span><br/><span class="highlightLine line29" line="29">Мое сердце трепещет,</span><br/><span class="highlightLine line30" line="30">Между вод</span><br/><span class="highlightLine line31" line="31">Воздух так хорош.</span><br/><br/><span class="highlightLine line33" line="33">Этот воздух такой чистый,</span><br/><span class="highlightLine line34" line="34">Я его вдыхаю.</span><br/><span class="highlightLine line35" line="35">Наши тени</span><br/><span class="highlightLine line36" line="36">На этом мосту.</span><br/></p>
+<div class="buttons" id="buttonsBottom">
+</div>
+<div class="author" style="margin-top:10px">
+<div id="author_var1">
+<input id="sp_author_var1" name="sp_author" type="hidden" value="0"/>
+						Автор перевода — <noindex><a href="mailto:galina-8888@mail.ru" rel="nofollow" target="_blank">galina-8888</a></noindex>
+</div>
+<input id="add_song_var2" name="add_song_id" type="hidden" value="1117"/>
+<input id="sp_author_var2" name="sp_author" type="hidden" value="0"/>
+<div class="author" id="author_var2" style="display:none;">
+<noindex>Автор перевода — <a href="http://www.youtube.com/watch?v=9QF98zG7cpg" rel="nofollow" target="_blank">Елена</a></noindex>
+</div>
+</div>
+</div>
+<br style="clear:both;"/>
+<div class="hrDiv" id="endOfText"></div>
+<div class="comment hs" id="comment">
+			1) <span id="footnote1"> Люсиль на сцене выступает в образе ангела</span>
+</div>
+<div style="color:#6c6c6c; padding-bottom:10px;">
+</div>
+<div class="noPrint" style="padding:7px 0;height: 50px;">
+<!-- BEGIN: gRating --->
+<div class="gRating">
+<div style="text-align:center; width:30px">
+<span id="messageVoted"></span>
+</div>
+<div style="float:left; margin:-3px 10px 0 0;">
+<h3>Понравился перевод?</h3>
+</div>
+<div class="ratingStars" id="ratingStars" style="float:left; margin:5px 0px 0 0;">
+<img alt="*" class="ratingStar" height="24" id="star_1" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_2" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_3" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_4" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_5" src="/images/styles_5/Star-Full.png" width="24"/>
+</div>
+<div style="float:right; margin:-3px 0 0 0; padding: 0 0 10px 0; clear:both; color:silver;">
+<div itemscope="" itemtype="https://schema.org/AggregateRating">
+<div>
+<span itemprop="itemReviewed" itemscope="" itemtype="https://schema.org/MusicRecording">
+<span itemprop="name" style="color:white;position:absolute; margin:-4000px 0 0 0;">Перевод песни La Seine — Un monstre à Paris</span>
+</span>
+<span>
+<span style="position:relative; top:4px; float:right;">
+											Рейтинг: <span id="avr" itemprop="ratingValue">5</span> / <span itemprop="bestRating">5</span>   
+											<span id="voted" itemprop="ratingCount">248</span> мнений
+										</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+<!-- END: gRating --->
+</div>
+<div class="noPrint" style="width:728px; margin: 10px auto; height:90px;">
+<!-- Yandex.RTB R-A-138894-74 -->
+<div id="yandex_rtb_R-A-138894-74"></div>
+
+</div>
+<div class="hrDiv noPrint"></div>
+</div>
+<div class="tags">
+<strong>Теги:</strong> <a href="/tags/poetic">Стихотворные и литературные переводы</a>, <a href="/tags/leaders">Лидеры хит-парада</a>
+</div>
+<div class="noPrint" style="margin-top:10px;">
+<div class="thanksForum">
+<a class="redLink" href="https://forum.lyrsense.com/showthread.php?p=1412#post1412" rel="nofollow">Поблагодарить<br/> за перевод на форуме</a>
+</div>
+<p class="sendErrorText">Ошибки, замечания, пожелания по переводу? — <a class="dashedRed" href="/feedback?foundError&amp;id=22612" id="foundErrorLink" rel="nofollow">сообщите нам</a></p>
+<div class="sendErrorDiv dopBlock modalBlock hidden">
+<form>
+<div id="notLogedUser">
+<label>Представьтесь, пожалуйста:</label>
+<input class="name text" id="name" name="name" style="width:211px !important" type="text" value="">
+<input id="nameUser" name="logedName" type="hidden" value="">
+</input></input></div>
+<div id="logedUser"></div>
+<textarea class="errorForm" id="message" name="message"></textarea><br/>
+<span class="error" id="errors"></span><br/>
+<input id="songId" name="songId" type="hidden" value="22612"/>
+<a class="dashedRed" href="#" id="sendError" rel="nofollow">Отправить</a>
+</form>
+<br style="clear:both"/>
+</div>
+</div>
+<div class="successSend"></div>
+</div>
+</div>
+</td></tr></table></div>
+<div class="contentBlock noPrint" style="clear:both;">
+<div class="similarSongs">
+<h2>Вам могут понравиться</h2>
+<div class="hs" style="width:240px;height:600px; float:right;">
+<!-- R-138894-21 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-21"></div>
+
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/pharrell_williams/happy_pw"><img alt="" height="150" src="/./images/albums/en_album_8236.jpg" width="150"/></a><br/>
+<a href="/pharrell_williams/happy_pw" style="font-size:16px;">Happy</a><br/>
+<a class="greyText" href="/pharrell_williams">Pharrell Williams</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/the_greatest_showman/the_other_side"><img alt="" height="150" src="/./images/albums/soundtrack_album_1417.jpg" width="150"/></a><br/>
+<a href="/the_greatest_showman/the_other_side" style="font-size:16px;">The other side</a><br/>
+<a class="greyText" href="/the_greatest_showman">The Greatest Showman</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/christmas_songs/jingle_bells_"><img alt="" height="150" src="/./images/albums/en_album_2339.jpg" width="150"/></a><br/>
+<a href="/christmas_songs/jingle_bells_" style="font-size:16px;">Jingle bells</a><br/>
+<a class="greyText" href="/christmas_songs">Christmas and New Year songs</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/lady_gaga/bloody_mary"><img alt="" height="150" src="/./images/albums/en_album_2546.jpg" width="150"/></a><br/>
+<a href="/lady_gaga/bloody_mary" style="font-size:16px;">Bloody Mary</a><br/>
+<a class="greyText" href="/lady_gaga">Lady Gaga</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/blackpink/pink_venom"><img alt="" height="150" src="/./images/albums/lyrsense_album_34331_8.jpg" width="150"/></a><br/>
+<a href="/blackpink/pink_venom" style="font-size:16px;">Pink venom</a><br/>
+<a class="greyText" href="/blackpink">BLACKPINK</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/mitski/nobody_mitski"><img alt="" height="150" src="/./images/albums/en_album_13815.jpg" width="150"/></a><br/>
+<a href="/mitski/nobody_mitski" style="font-size:16px;">Nobody</a><br/>
+<a class="greyText" href="/mitski">Mitski</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/pocahontas/colours_of_the_wind"><img alt="" height="150" src="/./images/albums/soundtrack_album_324.jpg" width="150"/></a><br/>
+<a href="/pocahontas/colours_of_the_wind" style="font-size:16px;">Colours of the wind</a><br/>
+<a class="greyText" href="/pocahontas">Pocahontas</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/aidan_r_gallagher/blue_neon"><img alt="" height="150" src="/./images/albums/en_album_16834.jpg" width="150"/></a><br/>
+<a href="/aidan_r_gallagher/blue_neon" style="font-size:16px;">Blue neon</a><br/>
+<a class="greyText" href="/aidan_r_gallagher">Aidan R. Gallagher</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/melanie_martinez/cake"><img alt="" height="150" src="/./images/albums/en_album_9472.jpg" width="150"/></a><br/>
+<a href="/melanie_martinez/cake" style="font-size:16px;">Cake</a><br/>
+<a class="greyText" href="/melanie_martinez">Melanie Martinez</a>
+</div>
+</div>
+<br style="clear:both;"/>
+</div>
+
+
+<td class="thirdColumn thinColumn">
+<div class="contentBlock album">
+<div class="album topAlbumBlock">
+<img alt="Un monstre à Paris (BOF)" class="hs" src="/./images/albums/soundtrack_album_560.jpg"/>
+<h3>Un monstre à Paris (BOF)</h3>
+<h4>Un monstre à Paris</h4>
+<br style="clear:both;"/>
+<div class="tracklistDiv">
+<a class="dashed trackListLink">Треклист</a> <span class="countSong trackListLink">(5)</span>
+<ul class="tracklist">
+<li><span>La Seine</span></li>
+<li><a href="/un_monstre_a_paris/la_seine_cabaret">La Seine Cabaret</a></li>
+<li><a href="/un_monstre_a_paris/un_monstre_a_paris">Un monstre à Paris</a></li>
+<li><a href="/un_monstre_a_paris/lamour_dans_lame">L'Amour dans l'âme</a></li>
+<li><a href="/un_monstre_a_paris/un_petit_baiser">Un petit baiser</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="sideYaBlock" style="margin:10px 0; text-align:center; height:300px; width:300px;">
+<!-- Yandex.RTB R-A-138894-70 -->
+<div id="yandex_rtb_R-A-138894-70"></div>
+
+</div>
+<div class="contentBlock" id="videoBlock" style="padding-bottom:10px;">
+<div class="hs">
+<h3 style="padding-bottom:0; margin-bottom:0;">Видеоклип</h3>
+</div>
+<img class="videoImg" src="https://i.ytimg.com/vi/vlPZLE2g0Kc/0.jpg" ytcode="vlPZLE2g0Kc"/>
+<img height="24" src="/images/styles_5/youtube-logo-55x24.png" style="float:right; margin-top:8px; " width="55"/>
+<p style="color:gray; font-size:11px; line-height:15px;"><strong>Видеоклипы</strong> к песне предоставляются сайтом youtube.com. Возможны некоторые несоответствия клипов песне.<br/><a href="/rulesVideo">Отказ от ответственности</a></p>
+</div>
+
+<div class="columnBlock noTopBorder sideAds" style="padding:0; margin-bottom:10px; min-height:250px; width:300px;">
+<!-- Yandex.RTB R-A-138894-72 -->
+<div id="yandex_rtb_R-A-138894-72"></div>
+
+</div>
+<div class="contentBlock album hs" style="padding:0;">
+<div id="vk_groups_ls"></div>
+
+</div>
+<div class="contentBlock">
+<h3>Популярные песни</h3>
+<div class="hp_index_row">
+<div class="hp_index_position">1.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35157_8.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/miley_cyrus/flowers_mc">Flowers</a><br/>
+<a href="/miley_cyrus" style="color:#7b7b7b">Miley Cyrus</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">2.</div>
+<div>
+<img alt="" height="50" src="/images/albums/es_album_14.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/manu_chao/me_gustas_tu">Me gustas tú</a><br/>
+<a href="/manu_chao" style="color:#7b7b7b">Manu Chao</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">3.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/fr_album_726.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/zaz/je_veux">Je veux</a><br/>
+<a href="/zaz" style="color:#7b7b7b">ZAZ</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">4.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_2488_469.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/deutschland_R">Deutschland</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">5.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_7.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/sonne">Sonne</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">6.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35216_1.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/shakira/bzrp_music_sessions_53">BZRP Music Sessions #53</a><br/>
+<a href="/shakira" style="color:#7b7b7b">Shakira</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">7.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_34293_1.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/kim_petras/treat_me_like_a_slut">Treat me like a slut</a><br/>
+<a href="/kim_petras" style="color:#7b7b7b">Kim Petras</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">8.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_21.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/du_hast">Du hast</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">9.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_1684.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rabauken/was_wollen_wir_trinken">Was wollen wir trinken</a><br/>
+<a href="/rabauken" style="color:#7b7b7b">Rabauken</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">10.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35310_9.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/sam_smith/unholy_s">Unholy</a><br/>
+<a href="/sam_smith" style="color:#7b7b7b">Sam Smith</a>
+</div>
+</div>
+</div>
+</div>
+<div class="contentBlock">
+<h3>Событие</h3>
+<a href="/guesch_patti"><img height="75" src="/images/events/fr_event_110.jpg" style="float:right; margin:0 0 5px 5px" width="75"/></a>
+<b>Вчера</b>
+<p>16.03.(1946) день рождения <a href="/guesch_patti">Guesch Patti</a></p>
+</div>
+</td>
+
+
+
+<div class="footer">
+<div class="bodyLayout">
+<div class="footerDiv">
+<table>
+<tr>
+<td>
+<h4>Lyrsense</h4>
+<ul>
+<li><a href="/advertising">Разместить рекламу</a></li>
+<li><a href="/partner">Партнерская программа</a></li>
+<li><a href="/donation">Поддержи сайт</a></li>
+</ul>
+</td>
+<td>
+<h4>Интересное</h4>
+<ul>
+<li><a href="https://game.lyrsense.com/" rel="nofollow">Игра «Угадай мелодию!»</a></li>
+<li><a href="/hitParad" rel="nofollow">Хит-парад</a></li>
+<li><a href="/radio" rel="nofollow">Персональное радио</a></li>
+</ul>
+</td>
+<td>
+<h4>Общение</h4>
+<ul>
+<li><a href="/feedback" rel="nofollow">Обратная связь</a></li>
+<li><a href="https://vk.com/lyrsense_com" rel="nofollow">Паблик в VK</a></li>
+<li><a href="https://forum.lyrsense.com/index.php" rel="nofollow">Форум</a></li>
+</ul>
+</td>
+<td>
+</td>
+</tr>
+</table>
+<div class="greyText">
+<span>Copyright © lyrsense.com, 2009–2023</span><br/>
+				Авторские права на перевод принадлежат авторам перевода. <br/>Пожалуйста, согласовывайте с авторами переводов возможность копирования материалов. 16+<br/>
+<a href="/terms" style="color:#7b7b7b;">Пользовательское соглашение</a> <a href="/privacy" style="color:#7b7b7b;">Политика конфиденциальности</a> 				
+				﻿
+
+
+<!-- Yandex.Metrika counter -->
+
+
+<!-- /Yandex.Metrika counter -->
+<!--/LiveInternet-->
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

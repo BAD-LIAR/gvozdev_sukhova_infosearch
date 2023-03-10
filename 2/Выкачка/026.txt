@@ -1,0 +1,622 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Lost on you — LP | Перевод и текст песни</title>
+<meta content="Перевод Lost on you, LP, клип, слушайть онлайн, текст песни, lyrsense" name="keywords"/>
+<meta content="Перевод песни Lost on you (LP) | Текст и перевод песни | Видео-клипы | Lyrsense" name="description"/>
+<meta content="Иванов Родион" name="author"/>
+<meta content="Иванов Родион" name="copyright"/>
+<meta content="width=device-width" name="viewport"/>
+
+<meta content="406ff1315d88e05e" name="yandex-verification">
+<meta content="IRpKkmfoN8t2gWivT2dg2N3QkBjTeJdDxCrRpSFVRuM" name="google-site-verification"/>
+
+
+
+
+<!--<link href="/css/styles_ny.css" rel="stylesheet" type="text/css" />-->
+<!--<link href="/css/styles_bd.css" rel="stylesheet" type="text/css" />-->
+
+</meta></head>
+<body>
+<div id="mp_custom_5974"></div>
+
+<div class="videoUndeCover"></div>
+<div class="videoCenterBlock" id="videoCenterBlock">
+<div class="videoButtons">
+<img alt="Развернуть " class="hidden" id="upVideo" src="/images/styles_5/window.png"/>
+<img alt="Свернуть вниз" id="downVideo" src="/images/styles_5/down.png"/>
+<img alt="Закрыть" id="closeVideo" src="/images/styles_5/close.png"/>
+</div>
+<div id="loadingVideo"></div>
+<div class="YaAds">
+<!-- R-138894-22 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-22"></div>
+
+</div>
+</div>
+<div class="bodyLayout">
+<div class="header noPrint ny_ls">
+<div class="topMenu hs">
+<table class="fullWidth">
+<tr>
+<td class="topMenuTd">
+<table>
+<tr>
+<td><a class="toOther" href="/" title="lyrsense.com">Главная</a></td>
+<td><a class="toOther" href="/fr" title="lyrsense.com">Французские</a></td>
+<td><a class="toOther" href="/it" title="lyrsense.com">Итальянские</a></td>
+<td><a class="toOther" href="/es" title="lyrsense.com">Испанские</a></td>
+<td><a class="toOther" href="/en" title="lyrsense.com">Английские</a></td>
+<td><a class="toOther" href="/de" title="lyrsense.com">Немецкие</a></td>
+<td><a class="toOtherls" href="https://forum.lyrsense.com/" title="форум">Форум</a></td>
+</tr>
+</table>
+</td>
+<td class="topRightMenu">
+<div>
+<div class="socTop">
+<a href="https://vk.com/lyrsense_com" target="_blank" title="Мы в Контакте"><img alt="Мы в Контакте" height="17" src="/images/styles_5/soc_vk.png" width="17"/></a>
+<a href="https://twitter.com/lyrsense" target="_blank" title="Мы в Твиттере"><img alt="Мы в Твиттере" height="17" src="/images/styles_5/soc_twitter.png" width="20"/></a>
+<a href="https://forum.lyrsense.com/" title="Форум"><img alt="Форум" height="18" src="/images/styles_5/soc_forum.png" width="17"/></a>
+</div>
+<span class="helloWorld hs" id="helloWorld">
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="float:right">
+<div class="lastSongs hidden dopBlock" id="lastSongs">
+<div class="userProfile">
+<div class="userProfileTop">
+<img id="userProfileImg" src="/images/userDefault.png"/>
+<span id="userProfileName"></span>
+<a href="/profile/newLogin?logout">выйти</a>
+</div>
+<div class="profileLogin">
+<div style="padding-bottom:15px;">
+					Авторизируйтесь через социальные сети или на <a href="https://forum.lyrsense.com/">форуме</a>
+</div>
+<div class="loginIcons">
+<a href="/profile/newLogin?loginWith=vk"><img src="/images/styles_5/ulogin_vkontakte.png"/></a>
+<a href="/profile/newLogin?loginWith=facebook"><img src="/images/styles_5/ulogin_facebook.png"/></a>
+<a href="/profile/newLogin?loginWith=google"><img src="/images/styles_5/ulogin_google.png"/></a>
+<a href="/profile/newLogin?loginWith=yandex"><img src="/images/styles_5/ulogin_yandex.png"/></a>
+<a href="/profile/newLogin?loginWith=odnoklassniki"><img src="/images/styles_5/ulogin_odnoklassniki.png"/></a>
+<a href="/profile/newLogin?loginWith=mailru"><img src="/images/styles_5/ulogin_mailru.png"/></a>
+</div>
+</div>
+<ul class="userProfileMenu">
+<li><a href="/profile/myWorks">Мои переводы</a></li>
+<li><a href="/profile/myFavorite">Любимые песни</a></li>
+<li><a href="/profile/mySubscribes">Подписки</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="menu">
+<ul>
+<li class="addSong"><a href="/addSong" rel="nofollow">Добавить перевод</a></li>
+<li><a href="/authors">Наши авторы</a></li>
+<li><a href="/hitParad">Хит-парад</a></li>
+<li><a href="https://game.lyrsense.com" rel="nofollow">Угадай мелодию!</a></li>
+<li><a href="/tags" rel="nofollow">Песни по тегам</a></li>
+<!--<li><a href="/faq" rel="nofollow">FAQ</a></li>-->
+</ul>
+</div>
+<div>
+<div style="float:left; width: 290px;padding-top:5px;">
+<!--<img src="/images/styles_5/0309.png" style='position:absolute; z-index:999; cursor:pointer; margin:50px 0 0 59px;' id="calendar0309"/>-->
+<a href="/" title="На главную"><img alt="lyrsense.com" class="gem" height="66" src="/images/styles_5/gem_ls.png" width="80"/></a>
+<a href="/" title="На главную"><img alt="lyrsense.com" class="logo" height="45" src="/images/styles_5/logo.png" width="167"/></a>
+</div>
+<div class="search">
+<form action="/search">
+<input autocomplete="off" class="search foldSearch" id="fastLsSearch" name="s" type="text" value=""/>
+<div style="float:right">
+<input alt="Найти" id="searchIcon" name="search" type="submit" value=""/>
+</div>
+<div style="position:absolute;">
+<img alt="" height="16" id="searchLoader" src="/images/styles_5/preloader.png" width="16">
+</img></div>
+</form>
+</div>
+</div>
+<div class="literasFirst" id="allLiteras">
+<ul class="shortLiters" id="shortLitersUl">
+<li><a href="/alphabet/lit_A">A</a></li>
+<li><a href="/alphabet/lit_B">B</a></li>
+<li><a href="/alphabet/lit_C">C</a></li>
+<li><a href="/alphabet/lit_D">D</a></li>
+<li><a href="/alphabet/lit_E">E</a></li>
+<li><a href="/alphabet/lit_F">F</a></li>
+<li><a href="/alphabet/lit_G">G</a></li>
+<li><a href="/alphabet/lit_H">H</a></li>
+<li><a href="/alphabet/lit_I">I</a></li>
+<li><a href="/alphabet/lit_J">J</a></li>
+<li><a href="/alphabet/lit_K">K</a></li>
+<li><a href="/alphabet/lit_L">L</a></li>
+<li><a href="/alphabet/lit_M">M</a></li>
+<li><a href="/alphabet/lit_N">N</a></li>
+<li><a href="/alphabet/lit_O">O</a></li>
+<li><a href="/alphabet/lit_P">P</a></li>
+<li><a href="/alphabet/lit_Q">Q</a></li>
+<li><a href="/alphabet/lit_R">R</a></li>
+<li><a href="/alphabet/lit_S">S</a></li>
+<li><a href="/alphabet/lit_T">T</a></li>
+<li><a href="/alphabet/lit_U">U</a></li>
+<li><a href="/alphabet/lit_V">V</a></li>
+<li><a href="/alphabet/lit_W">W</a></li>
+<li><a href="/alphabet/lit_X">X</a></li>
+<li><a href="/alphabet/lit_Y">Y</a></li>
+<li><a href="/alphabet/lit_Z">Z</a></li>
+<li><a href="/alphabet/lit_num">#</a></li>
+</ul>
+</div>
+</div>
+<table class="layout fullWidth">
+<tr>
+<td></td>
+<td width="310"></td>
+</tr>
+<tr>
+<td class="middleRow" id="textColumn">
+<div class="contentBlock" style="margin:0; padding-bottom:0;">
+<div class="printLogo hidden">
+<img class="logoPrint" src="/images/styles_5/logoBlck.png"/>
+</div>
+<h1 style="padding-bottom:0;">Перевод песни Lost on you (LP)</h1>
+<div class="noPrint" style="position:relative;top:15px;"></div>
+</div>
+<div class="contentBlock noPrint" style="padding-bottom:10px; margin-bottom:5px;">
+<div class="breadcrumbs songBreads" id="breadcrumbs" style="">
+<div id="load">
+			Загрузка...
+			</div>
+<div itemscope="" itemtype="https://schema.org/BreadcrumbList" style="display:inline;">
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/lp" itemprop="item"><span itemprop="name">LP</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="1" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/lp#album_26799" itemprop="item"><span itemprop="name">Lost on you (Deluxe edition)</span></a>
+<img height="7" src="/images/styles_4/breadcrumbsSep.png" width="7">
+<meta content="2" itemprop="position"/>
+</img></span>
+<span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<span itemprop="name">Lost on you</span>
+<meta content="3" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="noPrint hs" id="topBaner" style="margin:15px auto 0 auto; text-align:center; height:90px;">
+<!-- Yandex.RTB R-A-138894-68 -->
+<div id="yandex_rtb_R-A-138894-68"></div>
+
+</div>
+</div>
+<div id="layoutText">
+<div class="buttons tabPlane noPrint" id="buttons">
+<div class="tab selected" style="width:135px;">
+<a class="changeButtons" href="#v1" id="var1" rel="nofollow">Вариант 1</a>
+</div>
+<input id="prev" name="prev" type="hidden" value="var1"/>
+<div class="tab" style="width:135px;">
+<a class="changeButtons" href="#v2" id="var2" rel="nofollow">Вариант 2</a>
+</div>
+</div>
+<div class="contentBlock" style="clear:both;">
+<input id="id_song" name="id_song" type="hidden" value="111547"/>
+<input id="hash_song" name="hash_song" type="hidden" value="2de762ee90ee9ae8deef45a32ec27f39"/>
+<div id="layoutText">
+<div class="tags" style="padding-bottom:0 !important;">
+<b>Теги:</b> <a href="/tags/poetic">Стихотворные и литературные переводы</a>, <a href="/tags/commercial">Песни из рекламы</a>
+</div>
+<div class="halfWidthDiv">
+<h2 class="hs" id="fr_title">Lost on you</h2>
+</div>
+<div class="halfWidthDiv">
+<div class="sideButtons">
+<div style="position:absolute;width:20px;">
+<div class="likeSongLabel">
+<img class="setLiked button" height="17" id="set_like_111547" src="/images/styles_5/player/like_normal.png" width="20">
+</img></div>
+<a href="javascript:window.print()">
+<img alt="" class="noPrint" height="18" id="printPage" src="/images/styles_5/print.png" title="Распечатать перевод" width="20">
+</img></a>
+<img alt="Увеличить шрифт" class="fontBigger noPrint" height="18" src="/images/styles_5/f-bigger.png" width="20"/>
+<img alt="Уменьшить шрифт" class="fontSmaller noPrint" height="18" src="/images/styles_5/f-smaller.png" width="20"/>
+</div>
+</div>
+<h2 class="hs" id="ru_title">Обманулась в тебе</h2>
+</div>
+<br style="clear:both;"/>
+<div class="halfWidthDiv fontChange" style="padding-right:10px;">
+
+
+
+
+
+<p class="hs" id="fr_text"><span class="highlightLine puzEng line1" line="1">When you get older, plainer, saner</span><br/><span class="highlightLine puzEng line2" line="2">Will you remember all the danger</span><br/><span class="highlightLine puzEng line3" line="3">We came from?</span><br/><span class="highlightLine puzEng line4" line="4">Burning like embers, falling, tender</span><br/><span class="highlightLine puzEng line5" line="5">Longing for the days of no surrender</span><br/><span class="highlightLine puzEng line6" line="6">Years ago</span><br/><span class="highlightLine puzEng line7" line="7">And well you know</span><br/><br/><span class="highlightLine puzEng line9" line="9">Smoke em if you got em 'cause it’s going down</span><br/><span class="highlightLine puzEng line10" line="10">All I ever wanted was you</span><br/><span class="highlightLine puzEng line11" line="11">I’ll never get to heaven 'cause</span><br/><span class="highlightLine puzEng line12" line="12">I don’t know how</span><br/><span class="highlightLine puzEng line13" line="13">Let’s raise a glass or two</span><br/><br/><span class="highlightLine puzEng line15" line="15">To all the things I’ve lost on you</span><br/><span class="highlightLine puzEng line16" line="16">Tell me are they lost on you</span><br/><span class="highlightLine puzEng line17" line="17">Just that you could cut me loose</span><br/><span class="highlightLine puzEng line18" line="18">After everything I’ve lost on you</span><br/><span class="highlightLine puzEng line19" line="19">Is that lost on you</span><br/><span class="highlightLine puzEng line20" line="20">Is that lost on you</span><br/><span class="highlightLine puzEng line21" line="21">Baby is that lost on you</span><br/><span class="highlightLine puzEng line22" line="22">Is that lost on you</span><br/><br/><span class="highlightLine puzEng line24" line="24">Wishin' I could see the machinations</span><br/><span class="highlightLine puzEng line25" line="25">Understand the toil of expectations in your mind</span><br/><span class="highlightLine puzEng line26" line="26">Hold me like you never lost your patience</span><br/><span class="highlightLine puzEng line27" line="27">Tell me that you love me more</span><br/><span class="highlightLine puzEng line28" line="28">Than hate me all the time</span><br/><span class="highlightLine puzEng line29" line="29">And you’re still mine</span><br/><br/><span class="highlightLine puzEng line31" line="31">So smoke 'em if you got 'em 'cause it’s going down</span><br/><span class="highlightLine puzEng line32" line="32">All I ever wanted was you</span><br/><span class="highlightLine puzEng line33" line="33">Let's take a drink of heaven, this can turn around</span><br/><span class="highlightLine puzEng line34" line="34">Let’s raise a glass or two</span><br/><br/><span class="highlightLine puzEng line36" line="36">To all the things I’ve lost on you</span><br/><span class="highlightLine puzEng line37" line="37">Tell me are they lost on you</span><br/><span class="highlightLine puzEng line38" line="38">Just that you could cut me loose</span><br/><span class="highlightLine puzEng line39" line="39">After everything I’ve lost on you</span><br/><span class="highlightLine puzEng line40" line="40">Is that lost on you</span><br/><span class="highlightLine puzEng line41" line="41">Is that lost on you</span><br/><span class="highlightLine puzEng line42" line="42">Baby is that lost on you</span><br/><span class="highlightLine puzEng line43" line="43">Is that lost on you</span><br/><br/><span class="highlightLine puzEng line45" line="45">Let's raise a glass or two</span><br/><span class="highlightLine puzEng line46" line="46">To all the things I’ve lost on you</span><br/><span class="highlightLine puzEng line47" line="47">Tell me are they lost on you</span><br/><span class="highlightLine puzEng line48" line="48">Just that you could cut me loose</span><br/><span class="highlightLine puzEng line49" line="49">After everything I’ve lost on you</span><br/><span class="highlightLine puzEng line50" line="50">Is that lost on you</span><br/><span class="highlightLine puzEng line51" line="51">Is that lost on you</span><br/></p>
+
+</div>
+<div class="halfWidthDiv fontChange">
+<p class="hs" id="ru_text"><span class="highlightLine line1" line="1">Когда станешь старше, проще, мудрее,</span><br/><span class="highlightLine line2" line="2">Не забудешь ли ты обо всех передрягах,</span><br/><span class="highlightLine line3" line="3">Что породили нас?</span><br/><span class="highlightLine line4" line="4">Тлея, словно угольки, падая,</span><br/><span class="highlightLine line5" line="5">Тоскуя под временам, когда мы не сдавались,</span><br/><span class="highlightLine line6" line="6">Столько лет назад.</span><br/><span class="highlightLine line7" line="7">И, ну, ты знаешь:</span><br/><br/><span class="highlightLine line9" line="9">Закури, если есть чем, потому что скоро конец,</span><br/><span class="highlightLine line10" line="10">Всё, чего я хотела, — это ты.</span><br/><span class="highlightLine line11" line="11">На небеса мне никогда не попасть,</span><br/><span class="highlightLine line12" line="12">Потому что я не знаю как.</span><br/><span class="highlightLine line13" line="13">Так что поднимем бокал или два.</span><br/><br/><span class="highlightLine line15" line="15">За всё, что я потеряла ради тебя,</span><br/><span class="highlightLine line16" line="16">Скажи, неужели ты этого не поняла?</span><br/><span class="highlightLine line17" line="17">Просто чтобы избавиться от меня,</span><br/><span class="highlightLine line18" line="18">После всего, что я потеряла ради тебя.</span><br/><span class="highlightLine line19" line="19">Неужели ты этого не поняла?</span><br/><span class="highlightLine line20" line="20">Неужели ты этого не поняла?</span><br/><span class="highlightLine line21" line="21">Малыш, неужели ты этого не поняла?</span><br/><span class="highlightLine line22" line="22">Неужели ты этого не поняла?</span><br/><br/><span class="highlightLine line24" line="24">Хотела бы я раскусить эти уловки,</span><br/><span class="highlightLine line25" line="25">Понять груз ожиданий у тебя на душе.</span><br/><span class="highlightLine line26" line="26">Обними, будто ты никогда не выходила из себя,</span><br/><span class="highlightLine line27" line="27">Скажи, что всё это время ты больше любила,</span><br/><span class="highlightLine line28" line="28">Чем ненавидела меня.</span><br/><span class="highlightLine line29" line="29">Скажи, что ты всё ещё моя</span><br/><br/><span class="highlightLine line31" line="31">Закури, если есть чем, потому что скоро конец,</span><br/><span class="highlightLine line32" line="32">Всё, чего я хотела, — это ты.</span><br/><span class="highlightLine line33" line="33">Давай выпьем нектара, ещё не всё потеряно.</span><br/><span class="highlightLine line34" line="34">Так что поднимем бокал или два.</span><br/><br/><span class="highlightLine line36" line="36">За всё, что я потеряла ради тебя,</span><br/><span class="highlightLine line37" line="37">Скажи, неужели ты этого не поняла?</span><br/><span class="highlightLine line38" line="38">Просто чтобы избавиться от меня,</span><br/><span class="highlightLine line39" line="39">После всего, что я потеряла ради тебя.</span><br/><span class="highlightLine line40" line="40">Неужели ты этого не поняла?</span><br/><span class="highlightLine line41" line="41">Неужели ты этого не поняла?</span><br/><span class="highlightLine line42" line="42">Малыш, неужели ты этого не поняла?</span><br/><span class="highlightLine line43" line="43">Неужели ты этого не поняла?</span><br/><br/><span class="highlightLine line45" line="45">Так что поднимем бокал или два.</span><br/><span class="highlightLine line46" line="46">За всё, что я потеряла ради тебя,</span><br/><span class="highlightLine line47" line="47">Скажи, неужели ты этого не поняла?</span><br/><span class="highlightLine line48" line="48">Просто чтобы избавиться от меня,</span><br/><span class="highlightLine line49" line="49">После всего, что я потеряла ради тебя.</span><br/><span class="highlightLine line50" line="50">Неужели ты этого не поняла?</span><br/><span class="highlightLine line51" line="51">Неужели ты этого не поняла?</span><br/></p>
+<div class="buttons" id="buttonsBottom">
+</div>
+<div class="author" style="margin-top:10px">
+<div id="author_var1">
+<input id="sp_author_var1" name="sp_author" type="hidden" value="0"/>
+						Автор перевода — <noindex><a href="http://forum.lyrsense.com/member.php?u=9064" rel="nofollow" target="_blank">Mika Gamidova</a></noindex>
+</div>
+<input id="add_song_var2" name="add_song_id" type="hidden" value="3747"/>
+<input id="sp_author_var2" name="sp_author" type="hidden" value="0"/>
+<div class="author" id="author_var2" style="display:none;">
+<noindex>Автор перевода — <a href="https://vk.com/mrlom80" rel="nofollow" target="_blank">Павел Колесников</a></noindex>
+</div>
+</div>
+</div>
+<br style="clear:both;"/>
+<div class="hrDiv" id="endOfText"></div>
+<div class="comment hs" id="comment">
+</div>
+<div style="color:#6c6c6c; padding-bottom:10px;">
+</div>
+<div class="noPrint" style="padding:7px 0;height: 50px;">
+<!-- BEGIN: gRating --->
+<div class="gRating">
+<div style="text-align:center; width:30px">
+<span id="messageVoted"></span>
+</div>
+<div style="float:left; margin:-3px 10px 0 0;">
+<h3>Понравился перевод?</h3>
+</div>
+<div class="ratingStars" id="ratingStars" style="float:left; margin:5px 0px 0 0;">
+<img alt="*" class="ratingStar" height="24" id="star_1" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_2" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_3" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_4" src="/images/styles_5/Star-Full.png" width="24"/><img alt="*" class="ratingStar" height="24" id="star_5" src="/images/styles_5/Star-Full.png" width="24"/>
+</div>
+<div style="float:right; margin:-3px 0 0 0; padding: 0 0 10px 0; clear:both; color:silver;">
+<div itemscope="" itemtype="https://schema.org/AggregateRating">
+<div>
+<span itemprop="itemReviewed" itemscope="" itemtype="https://schema.org/MusicRecording">
+<span itemprop="name" style="color:white;position:absolute; margin:-4000px 0 0 0;">Перевод песни Lost on you — LP</span>
+</span>
+<span>
+<span style="position:relative; top:4px; float:right;">
+											Рейтинг: <span id="avr" itemprop="ratingValue">5</span> / <span itemprop="bestRating">5</span>   
+											<span id="voted" itemprop="ratingCount">645</span> мнений
+										</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+<!-- END: gRating --->
+</div>
+<div class="noPrint" style="width:728px; margin: 10px auto; height:90px;">
+<!-- Yandex.RTB R-A-138894-74 -->
+<div id="yandex_rtb_R-A-138894-74"></div>
+
+</div>
+<div class="hrDiv noPrint"></div>
+</div>
+<div class="tags">
+<strong>Теги:</strong> <a href="/tags/poetic">Стихотворные и литературные переводы</a>, <a href="/tags/commercial">Песни из рекламы</a>
+</div>
+<div class="noPrint" style="margin-top:10px;">
+<div class="thanksForum">
+<a class="redLink" href="https://forum.lyrsense.com/showthread.php?p=1412#post1412" rel="nofollow">Поблагодарить<br/> за перевод на форуме</a>
+</div>
+<p class="sendErrorText">Ошибки, замечания, пожелания по переводу? — <a class="dashedRed" href="/feedback?foundError&amp;id=111547" id="foundErrorLink" rel="nofollow">сообщите нам</a></p>
+<div class="sendErrorDiv dopBlock modalBlock hidden">
+<form>
+<div id="notLogedUser">
+<label>Представьтесь, пожалуйста:</label>
+<input class="name text" id="name" name="name" style="width:211px !important" type="text" value="">
+<input id="nameUser" name="logedName" type="hidden" value="">
+</input></input></div>
+<div id="logedUser"></div>
+<textarea class="errorForm" id="message" name="message"></textarea><br/>
+<span class="error" id="errors"></span><br/>
+<input id="songId" name="songId" type="hidden" value="111547"/>
+<a class="dashedRed" href="#" id="sendError" rel="nofollow">Отправить</a>
+</form>
+<br style="clear:both"/>
+</div>
+</div>
+<div class="successSend"></div>
+</div>
+</div>
+</td></tr></table></div>
+<div class="contentBlock noPrint" style="clear:both;">
+<div class="similarSongs">
+<h2>Вам могут понравиться</h2>
+<div class="hs" style="width:240px;height:600px; float:right;">
+<!-- R-138894-21 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138894-21"></div>
+
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/rammstein/adieu_ramm"><img alt="" height="150" src="/./images/albums/de_album_2858_821.png" width="150"/></a><br/>
+<a href="/rammstein/adieu_ramm" style="font-size:16px;">Adieu</a><br/>
+<a class="greyText" href="/rammstein">Rammstein</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/rabauken/was_wollen_wir_trinken"><img alt="" height="150" src="/./images/albums/de_album_1684.jpg" width="150"/></a><br/>
+<a href="/rabauken/was_wollen_wir_trinken" style="font-size:16px;">Was wollen wir trinken</a><br/>
+<a class="greyText" href="/rabauken">Rabauken</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/abba/happy_new_year"><img alt="" height="150" src="/./images/albums/en_album_178.jpg" width="150"/></a><br/>
+<a href="/abba/happy_new_year" style="font-size:16px;">Happy New Year</a><br/>
+<a class="greyText" href="/abba">ABBA</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/ace_of_base/beautiful_life"><img alt="" height="150" src="/./images/albums/en_album_355.jpg" width="150"/></a><br/>
+<a href="/ace_of_base/beautiful_life" style="font-size:16px;">Beautiful life</a><br/>
+<a class="greyText" href="/ace_of_base">Ace of base</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/neil_diamond/sweet_caroline"><img alt="" height="150" src="/./images/albums/en_album_14741.jpg" width="150"/></a><br/>
+<a href="/neil_diamond/sweet_caroline" style="font-size:16px;">Sweet Caroline</a><br/>
+<a class="greyText" href="/neil_diamond">Neil Diamond</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/josh_groban/to_where_you_are"><img alt="" height="150" src="/./images/albums/en_album_2137.jpg" width="150"/></a><br/>
+<a href="/josh_groban/to_where_you_are" style="font-size:16px;">To where you are</a><br/>
+<a class="greyText" href="/josh_groban">Josh Groban</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/ed_sheeran/perfect_es"><img alt="" height="150" src="/./images/albums/en_album_11184_74.jpg" width="150"/></a><br/>
+<a href="/ed_sheeran/perfect_es" style="font-size:16px;">Perfect</a><br/>
+<a class="greyText" href="/ed_sheeran">Ed Sheeran</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/natasha_bedingfield/pocketful_of_sunshine"><img alt="" height="150" src="/./images/albums/en_album_3102.jpg" width="150"/></a><br/>
+<a href="/natasha_bedingfield/pocketful_of_sunshine" style="font-size:16px;">Pocketful of sunshine</a><br/>
+<a class="greyText" href="/natasha_bedingfield">Natasha Bedingfield</a>
+</div>
+<div class="likeSong hs">
+<div class="listenBtn" style="opacity: 0;"></div>
+<a href="/bee_gees/how_deep_is_your_love_bg"><img alt="" height="150" src="/./images/albums/en_album_808.jpg" width="150"/></a><br/>
+<a href="/bee_gees/how_deep_is_your_love_bg" style="font-size:16px;">How deep is your love</a><br/>
+<a class="greyText" href="/bee_gees">Bee Gees</a>
+</div>
+</div>
+<br style="clear:both;"/>
+</div>
+
+
+<td class="thirdColumn thinColumn">
+<div class="contentBlock album">
+<div class="album topAlbumBlock">
+<img alt="Lost on you (Deluxe edition)" class="hs" src="/./images/albums/en_album_11323_874.jpg"/>
+<h3>Lost on you (Deluxe edition)</h3>
+<h4>LP</h4>
+<br style="clear:both;"/>
+<div class="tracklistDiv">
+<a class="dashed trackListLink">Треклист</a> <span class="countSong trackListLink">(14)</span>
+<ul class="tracklist">
+<li><a href="/lp/muddy_waters">Muddy waters</a></li>
+<li><a href="/lp/no_witness">No witness</a></li>
+<li><span>Lost on you</span></li>
+<li><a href="/lp/when_were_high">When we're high</a></li>
+<li><a href="/lp/switchblade_lp">Switchblade</a></li>
+<li><a href="/lp/up_against_me">Up against me</a></li>
+<li><a href="/lp/suspicion_lp">Suspicion</a></li>
+<li><a href="/lp/other_people">Other people</a></li>
+<li><a href="/lp/tightrope_lp">Tightrope</a></li>
+<li><a href="/lp/into_the_wild_lp">Into the wild</a></li>
+<li><a href="/lp/strange_lp">Strange</a></li>
+<li><a href="/lp/death_valley_lp">Death valley</a></li>
+<li><a href="/lp/you_want_it_all">You want it all</a></li>
+<li><a href="/lp/long_way_to_go_to_die">Long way to go to die</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="songBanner linkDiv" href="https://game.lyrsense.com/lp">
+<img class="artistBck" src="/./images/artists/en_lp.jpg" width="85"/>
+<img class="gamebnnr" height="150" src="/images/styles_5/game_new_banner.png" width="300"/>
+</div>
+<div id="sideYaBlock" style="margin:10px 0; text-align:center; height:300px; width:300px;">
+<!-- Yandex.RTB R-A-138894-70 -->
+<div id="yandex_rtb_R-A-138894-70"></div>
+
+</div>
+<div class="contentBlock" id="videoBlock" style="padding-bottom:10px;">
+<div class="hs">
+<h3 style="padding-bottom:0; margin-bottom:0;">Видеоклип</h3>
+</div>
+<img class="videoImg" src="https://i.ytimg.com/vi/wDjeBNv6ip0/0.jpg" ytcode="wDjeBNv6ip0"/>
+<img height="24" src="/images/styles_5/youtube-logo-55x24.png" style="float:right; margin-top:8px; " width="55"/>
+<p style="color:gray; font-size:11px; line-height:15px;"><strong>Видеоклипы</strong> к песне предоставляются сайтом youtube.com. Возможны некоторые несоответствия клипов песне.<br/><a href="/rulesVideo">Отказ от ответственности</a></p>
+</div>
+
+<div class="columnBlock noTopBorder sideAds" style="padding:0; margin-bottom:10px; min-height:250px; width:300px;">
+<!-- Yandex.RTB R-A-138894-72 -->
+<div id="yandex_rtb_R-A-138894-72"></div>
+
+</div>
+<div class="contentBlock album hs" style="padding:0;">
+<div id="vk_groups_ls"></div>
+
+</div>
+<div class="contentBlock">
+<h3>Популярные песни</h3>
+<div class="hp_index_row">
+<div class="hp_index_position">1.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35157_8.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/miley_cyrus/flowers_mc">Flowers</a><br/>
+<a href="/miley_cyrus" style="color:#7b7b7b">Miley Cyrus</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">2.</div>
+<div>
+<img alt="" height="50" src="/images/albums/es_album_14.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/manu_chao/me_gustas_tu">Me gustas tú</a><br/>
+<a href="/manu_chao" style="color:#7b7b7b">Manu Chao</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">3.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/fr_album_726.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/zaz/je_veux">Je veux</a><br/>
+<a href="/zaz" style="color:#7b7b7b">ZAZ</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">4.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_2488_469.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/deutschland_R">Deutschland</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">5.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_7.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/sonne">Sonne</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">6.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35216_1.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/shakira/bzrp_music_sessions_53">BZRP Music Sessions #53</a><br/>
+<a href="/shakira" style="color:#7b7b7b">Shakira</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">7.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_34293_1.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/kim_petras/treat_me_like_a_slut">Treat me like a slut</a><br/>
+<a href="/kim_petras" style="color:#7b7b7b">Kim Petras</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">8.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_21.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rammstein/du_hast">Du hast</a><br/>
+<a href="/rammstein" style="color:#7b7b7b">Rammstein</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">9.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/de_album_1684.jpg" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/rabauken/was_wollen_wir_trinken">Was wollen wir trinken</a><br/>
+<a href="/rabauken" style="color:#7b7b7b">Rabauken</a>
+</div>
+</div>
+</div>
+<div class="hp_index_row">
+<div class="hp_index_position">10.</div>
+<div>
+<img alt="" height="50" src="/./images/albums/lyrsense_album_35310_9.png" style="float:left; margin:5px;" width="50"/>
+<div style="padding-top:3px;">
+<a href="/sam_smith/unholy_s">Unholy</a><br/>
+<a href="/sam_smith" style="color:#7b7b7b">Sam Smith</a>
+</div>
+</div>
+</div>
+</div>
+<div class="contentBlock">
+<h3>Событие</h3>
+<a href="https://es.lyrsense.com/camilo"><img height="75" src="/./images/events/es_event_226.jpg" style="float:right; margin:0 0 5px 5px" width="75"/></a>
+<b>Вчера</b>
+<p>16.03.(1994) День Рождения колумбийского исполнителя, автора песен и продюсера <a href="https://es.lyrsense.com/camilo">Camilo</a></p>
+</div>
+</td>
+
+
+
+<div class="footer">
+<div class="bodyLayout">
+<div class="footerDiv">
+<table>
+<tr>
+<td>
+<h4>Lyrsense</h4>
+<ul>
+<li><a href="/advertising">Разместить рекламу</a></li>
+<li><a href="/partner">Партнерская программа</a></li>
+<li><a href="/donation">Поддержи сайт</a></li>
+</ul>
+</td>
+<td>
+<h4>Интересное</h4>
+<ul>
+<li><a href="https://game.lyrsense.com/" rel="nofollow">Игра «Угадай мелодию!»</a></li>
+<li><a href="/hitParad" rel="nofollow">Хит-парад</a></li>
+<li><a href="/radio" rel="nofollow">Персональное радио</a></li>
+</ul>
+</td>
+<td>
+<h4>Общение</h4>
+<ul>
+<li><a href="/feedback" rel="nofollow">Обратная связь</a></li>
+<li><a href="https://vk.com/lyrsense_com" rel="nofollow">Паблик в VK</a></li>
+<li><a href="https://forum.lyrsense.com/index.php" rel="nofollow">Форум</a></li>
+</ul>
+</td>
+<td>
+</td>
+</tr>
+</table>
+<div class="greyText">
+<span>Copyright © lyrsense.com, 2009–2023</span><br/>
+				Авторские права на перевод принадлежат авторам перевода. <br/>Пожалуйста, согласовывайте с авторами переводов возможность копирования материалов. 16+<br/>
+<a href="/terms" style="color:#7b7b7b;">Пользовательское соглашение</a> <a href="/privacy" style="color:#7b7b7b;">Политика конфиденциальности</a> 				
+				﻿
+
+
+<!-- Yandex.Metrika counter -->
+
+
+<!-- /Yandex.Metrika counter -->
+<!--/LiveInternet-->
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>
